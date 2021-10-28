@@ -44,6 +44,16 @@ typedef struct{
 }GpsData;
 #pragma pack()
 
+// 送信用データ作成する
+	#pragma pack(1)
+	typedef struct
+	{
+		GpsData gps;
+		char ttl;
+	}SendData;
+
+	#pragma pack()
+
 int32 gps_read(GpsData* gps);
 int gps_parse(char* nmea, GpsData* gps);
 

@@ -245,10 +245,11 @@ void cbToCoNet_vRxEvent(tsRxDataApp *pRx) {
 	int i;
 	static uint16 u16seqPrev = 0xFFFF;
 	//uint8 *p = pRx->auData;
-	GpsData receive;
+	SendData receive;
 
-	memcpy(&receive, pRx->auData, sizeof(GpsData));
-	showGPS(&receive);
+
+	memcpy(&receive, pRx->auData, sizeof(receive));
+	showGPS(&receive.gps);
 
 
 	// // print coming payload
@@ -341,22 +342,14 @@ int16 BroadCastGpsData(GpsData* gps) {
 	tsTx.u8Seq = sAppData.u32Seq & 0xFF;
 	tsTx.u8Cmd = TOCONET_PACKET_CMD_APP_DATA;
 	
-	// 送信用データ作成する
-	#pragma pack(1)
-	typedef struct
-	{
-		GpsData* gps;
-		char ttl;
-	}SendData;
-
-	#pragma pack()
+	
 	SendData send;
 
 	// 送信用データのコピー
-	memcpy(send.gps, gps, sizeof(GpsData));
+	send.gps = *gps;
 	send.ttl = 3;
 
-	memcpy(tsTx.auData, send, sizeof(SendData));
+	memcpy(&tsTx.auData, &send, sizeof(SendData));
 	tsTx.u8Len = sizeof(SendData);
 	// memcpy(tsTx.auData, gps, sizeof(GpsData));
 	// tsTx.u8Len = sizeof(GpsData);

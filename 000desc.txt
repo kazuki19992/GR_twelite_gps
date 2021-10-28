@@ -1,3 +1,3 @@
-サンプル-I2C
-I2Cバスの制御用のAPI利用サンプルです。
-https://github.com/monowireless/Samp_I2C
+卒研用-TWELITE-GPS
+GPSモジュールで受信したデータをBluetoothでPCに送信するよ！
+https://github.com/kazuki19992/GR_twelite_gps

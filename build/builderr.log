@@ -1,48 +1,51 @@
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'gps_read':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:43:13: warning: pointer targets in passing argument 1 of 'gps_parse' differ in signedness [-Wpointer-sign]
-In file included from C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:6:0:
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.h:48:5: note: expected 'char *' but argument is of type 'uint8 *'
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:23:11: warning: unused variable 'j' [-Wunused-variable]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: At top level:
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:53:1: warning: data definition has no type or storage class [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:53:1: warning: type defaults to 'int' in declaration of 'thisCheck' [-Wimplicit-int]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'parseStr':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:87:3: warning: implicit declaration of function 'strchr' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:87:13: warning: incompatible implicit declaration of built-in function 'strchr' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:91:5: warning: implicit declaration of function 'strncpy' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:91:5: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:98:7: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:102:7: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:102:22: warning: incompatible implicit declaration of built-in function 'strlen' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:103:7: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'tokenOnList':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:111:5: warning: implicit declaration of function 'strncmp' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:113:66: warning: incompatible implicit declaration of built-in function 'strlen' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'check':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:157:5: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:159:5: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:161:9: warning: implicit declaration of function 'strcpy' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:161:9: warning: incompatible implicit declaration of built-in function 'strcpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:165:9: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:167:13: warning: incompatible implicit declaration of built-in function 'strcpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:157:11: warning: unused variable 'src' [-Wunused-variable]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'parseDate':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:183:5: warning: implicit declaration of function 'memcpy' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:183:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:184:5: warning: implicit declaration of function 'atoi' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'parseLatitude':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:199:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'parseLongitude':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:217:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c: In function 'gps_parse':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:237:9: warning: incompatible implicit declaration of built-in function 'strchr' [enabled by default]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Common/Adafruit_GPS_I2C.c:238:5: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c: In function 'cbToCoNet_vHwEvent':
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c:372:9: warning: unused variable 'j' [-Wunused-variable]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c:371:9: warning: unused variable 'i' [-Wunused-variable]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c: At top level:
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c:106:14: warning: 'u8KickedSensor' defined but not used [-Wunused-variable]
-C:/Users/mikoshi/Downloads/MWSTAGE-2021-09_win10/MWSTAGE/MWSDK/Wks_TweApps/GPS/Main.c:107:15: warning: 'u32KickedTimeStamp' defined but not used [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'gps_read':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:43:13: warning: pointer targets in passing argument 1 of 'gps_parse' differ in signedness [-Wpointer-sign]
+In file included from C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:6:0:
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.h:58:5: note: expected 'char *' but argument is of type 'uint8 *'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:23:11: warning: unused variable 'j' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: At top level:
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:53:1: warning: data definition has no type or storage class [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:53:1: warning: type defaults to 'int' in declaration of 'thisCheck' [-Wimplicit-int]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'parseStr':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:87:3: warning: implicit declaration of function 'strchr' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:87:13: warning: incompatible implicit declaration of built-in function 'strchr' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:91:5: warning: implicit declaration of function 'strncpy' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:91:5: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:98:7: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:102:7: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:102:22: warning: incompatible implicit declaration of built-in function 'strlen' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:103:7: warning: incompatible implicit declaration of built-in function 'strncpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'tokenOnList':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:111:5: warning: implicit declaration of function 'strncmp' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:113:66: warning: incompatible implicit declaration of built-in function 'strlen' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'check':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:157:5: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:159:5: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:161:9: warning: implicit declaration of function 'strcpy' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:161:9: warning: incompatible implicit declaration of built-in function 'strcpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:165:9: warning: passing argument 2 of 'tokenOnList' from incompatible pointer type [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:109:7: note: expected 'char **' but argument is of type 'const char **'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:167:13: warning: incompatible implicit declaration of built-in function 'strcpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:157:11: warning: unused variable 'src' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'parseDate':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:183:5: warning: implicit declaration of function 'memcpy' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:183:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:184:5: warning: implicit declaration of function 'atoi' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'parseLatitude':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:199:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'parseLongitude':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:217:5: warning: incompatible implicit declaration of built-in function 'memcpy' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'gps_parse':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:237:9: warning: incompatible implicit declaration of built-in function 'strchr' [enabled by default]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:238:5: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vRxEvent':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:246:16: warning: unused variable 'u16seqPrev' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:245:6: warning: unused variable 'i' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vHwEvent':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:386:9: warning: unused variable 'j' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:385:9: warning: unused variable 'i' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: At top level:
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:106:14: warning: 'u8KickedSensor' defined but not used [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:107:15: warning: 'u32KickedTimeStamp' defined but not used [-Wunused-variable]
