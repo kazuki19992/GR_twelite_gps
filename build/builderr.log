@@ -1,7 +1,7 @@
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'gps_read':
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:43:13: warning: pointer targets in passing argument 1 of 'gps_parse' differ in signedness [-Wpointer-sign]
 In file included from C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:6:0:
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.h:58:5: note: expected 'char *' but argument is of type 'uint8 *'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.h:56:5: note: expected 'char *' but argument is of type 'uint8 *'
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:23:11: warning: unused variable 'j' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: At top level:
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:53:1: warning: data definition has no type or storage class [enabled by default]
@@ -44,8 +44,11 @@ C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNe
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:246:16: warning: unused variable 'u16seqPrev' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:245:6: warning: unused variable 'i' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vHwEvent':
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:386:9: warning: unused variable 'j' [-Wunused-variable]
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:385:9: warning: unused variable 'i' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:392:9: warning: unused variable 'j' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:391:9: warning: unused variable 'i' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: At top level:
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:106:14: warning: 'u8KickedSensor' defined but not used [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:107:15: warning: 'u32KickedTimeStamp' defined but not used [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vRxEvent':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:252:16: warning: 'receive.gps' is used uninitialized in this function [-Wuninitialized]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:252:8: warning: 'receive.gps' is used uninitialized in this function [-Wuninitialized]

@@ -42,17 +42,15 @@ typedef struct{
     Degree latitude; // 緯度 
     Degree longitude; // 経度
 }GpsData;
-#pragma pack()
-
+#pragma pack(1)
 // 送信用データ作成する
-	#pragma pack(1)
-	typedef struct
-	{
-		GpsData gps;
-		char ttl;
-	}SendData;
+typedef struct
+{
+  GpsData *gps;
+  char ttl;
+}SendData;
 
-	#pragma pack()
+#pragma pack()
 
 int32 gps_read(GpsData* gps);
 int gps_parse(char* nmea, GpsData* gps);
