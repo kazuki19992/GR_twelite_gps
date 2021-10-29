@@ -195,25 +195,25 @@ c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcp
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
                               c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o) (__umodsi3)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o (memcmp)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o (memcmp)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o (memcpy)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o (memcpy)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o (memset)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o (memset)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o (strchr)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o (strchr)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o (strcmp)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o (strcmp)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o (strcpy)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o (strcpy)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o (strlen)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o (strlen)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o (strncmp)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o (strncmp)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o (strncpy)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o (strncpy)
 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
-                              C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o (__divsi3)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o (__divsi3)
 
 Allocating common symbols
 Common symbol       size              file
@@ -247,18 +247,18 @@ g_bLegacyHwBugEmulation
 Discarded input sections
 
  .text          0x0000000000000000        0x0 objs_BLUE/Adafruit_GPS_I2C.o (symbol from plugin)
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
- .text          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans15.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
+ .text          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
  .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
@@ -401,23 +401,23 @@ ram              0x000000000400004c 0x0000000000007fb4
 Linker script and memory map
 
 LOAD objs_BLUE/Adafruit_GPS_I2C.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans15.ltrans.o
-LOAD C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans15.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
 LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
 LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
 LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
@@ -479,14 +479,14 @@ LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.
                 0x000000000008001c        0x2 SHORT 0x0
                 0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
                 0x0000000000080020                _enc_start = ABSOLUTE (.)
-                0x0000000000080020        0x4 LONG 0xb5b4 ABSOLUTE (_image_len)
-                0x0000000000080024        0x4 LONG 0x8b0d8 ABSOLUTE (_flash_data_start)
+                0x0000000000080020        0x4 LONG 0xb630 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x8b154 ABSOLUTE (_flash_data_start)
                 0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
                 0x000000000008002a        0x2 SHORT 0x137 ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
                 0x000000000008002c        0x2 SHORT 0x14a ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
                 0x000000000008002e        0x2 SHORT 0x7a4 ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
-                0x0000000000080030        0x4 LONG 0x84d90 ABSOLUTE (AppWarmStart)
-                0x0000000000080034        0x4 LONG 0x8a4f8 ABSOLUTE (AppColdStart)
+                0x0000000000080030        0x4 LONG 0x84df0 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x8a574 ABSOLUTE (AppColdStart)
                 0x0000000000000000                _enc_offset = (_enc_start & 0xf)
                 0x0000000000000044                PROVIDE (vException_BusError, restore_state)
                 0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
@@ -510,408 +510,411 @@ LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.
                 0x0000000000080050                _exception_external_interrupt
                 0x00000000000800f8                _default_vsr_dummy
 
-.rodata         0x00000000000800fc      0x7f9
+.rodata         0x00000000000800fc      0x7fd
  *(.rodata*)
- .rodata        0x00000000000800fc       0x1c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
+ .rodata        0x00000000000800fc       0x1c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
                 0x00000000000800fc                psTamXcvContext
- .rodata        0x0000000000080118       0xd4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
-                0x0000000000080118                s_aprScanHandleEvt.10734
-                0x0000000000080148                apvActionCalls
-                0x00000000000801d0                aprLPBMacVectorRamTable
-                0x00000000000801e4                psTamMacContext
-                0x00000000000801e8                psTAMcontext
  .rodata.str1.1
-                0x00000000000801ec       0xad C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
- .rodata        0x0000000000080299        0x5 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
-                0x0000000000080299                gbHighPowerMode
-                0x000000000008029a                gu8ModuleID
+                0x0000000000080118       0xb0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+ .rodata        0x00000000000801c8       0xd4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+                0x00000000000801c8                s_aprScanHandleEvt.10738
+                0x00000000000801f8                apvActionCalls
+                0x0000000000080280                aprLPBMacVectorRamTable
+                0x0000000000080294                psTamMacContext
+                0x0000000000080298                psTAMcontext
+ .rodata        0x000000000008029c        0x5 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+                0x000000000008029c                gbHighPowerMode
+                0x000000000008029d                gu8ModuleID
  .rodata.str1.1
-                0x000000000008029e       0x22 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
- .rodata        0x00000000000802c0       0x38 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
-                0x00000000000802c0                asStateFuncTbl.2649
- .rodata        0x00000000000802f8        0x4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
- .rodata        0x00000000000802fc        0x6 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
-                0x00000000000802fc                aeXcvPhyEvtToScanEvt.5394.10737
- *fill*         0x0000000000080302        0x2 00
- .rodata        0x0000000000080304       0x14 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
+                0x00000000000802a1       0x22 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+ *fill*         0x00000000000802c3        0x1 00
+ .rodata        0x00000000000802c4       0x38 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+                0x00000000000802c4                asStateFuncTbl.2653
+ .rodata        0x00000000000802fc        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+ .rodata        0x0000000000080300        0x6 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+                0x0000000000080300                aeXcvPhyEvtToScanEvt.5394.10741
+ *fill*         0x0000000000080306        0x2 00
+ .rodata        0x0000000000080308       0x14 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
  .rodata.str1.1
-                0x0000000000000000       0x22 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
+                0x0000000000000000       0x22 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
                                           0x3 (size before relaxing)
- .rodata        0x0000000000080318      0x131 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
- .rodata        0x0000000000080449        0xa C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
- .rodata        0x0000000000080453       0x9a C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
+ .rodata        0x000000000008031c      0x131 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+ .rodata        0x000000000008044d        0xa C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+ .rodata        0x0000000000080457       0x9a C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
  .rodata.str1.1
-                0x00000000000804ed       0x7e C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
- *fill*         0x000000000008056b        0x1 00
- .rodata        0x000000000008056c        0x8 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
-                0x000000000008056c                au32UartAddrOffset
- .rodata        0x0000000000080574       0x28 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
-                0x0000000000080574                CSWTCH.35.20998.20998
-                0x0000000000080588                au32TimerBaseAddress
- .rodata        0x000000000008059c       0x14 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
+                0x00000000000804f1       0x7e C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+ *fill*         0x000000000008056f        0x1 00
+ .rodata        0x0000000000080570        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+                0x0000000000080570                au32UartAddrOffset
+ .rodata        0x0000000000080578       0x28 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+                0x0000000000080578                CSWTCH.35.21002.21002
+                0x000000000008058c                au32TimerBaseAddress
+ .rodata        0x00000000000805a0       0x14 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
  .rodata.str1.1
-                0x00000000000805b0       0x35 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
+                0x00000000000805b4       0x35 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
                                          0x46 (size before relaxing)
  .rodata.str1.1
-                0x00000000000805e5       0x11 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
- *fill*         0x00000000000805f6        0x2 00
- .rodata        0x00000000000805f8       0x7c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
-                0x000000000008062c                u32MacLow_TOCOS
-                0x0000000000080630                u32MacHigh_TOCOS
- .rodata        0x0000000000080674      0x281 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
-                0x0000000000080674                _ctype_
+                0x00000000000805e9       0x11 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
+ *fill*         0x00000000000805fa        0x2 00
+ .rodata        0x00000000000805fc       0x7c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
+                0x0000000000080630                u32MacLow_TOCOS
+                0x0000000000080634                u32MacHigh_TOCOS
+ .rodata        0x0000000000080678      0x281 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+                0x0000000000080678                _ctype_
  .rodata.str1.1
                 0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
                                           0x2 (size before relaxing)
 
-.text           0x00000000000808f8     0xa7e0
+.text           0x00000000000808fc     0xa858
  *(.text*)
- .text          0x00000000000808f8      0xac0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
-                0x00000000000808f8                vPMICassocReqTO_1.8815
-                0x0000000000080980                vTAMDEstartSync
-                0x00000000000809ff                eTAMselect
-                0x0000000000080b40                MAC_pvCtor
-                0x0000000000080f5b                u32AppApiDefInit
-                0x0000000000081010                _ToCoNet_vMacInit
-                0x0000000000081076                _ToCoNet_vRfConfig
-                0x00000000000811b8                vDeterminePowerState.13640
-                0x000000000008123d                vTAMDEint1FiredTrackingBeacon
-                0x00000000000812dd                vTAMDEint2FiredTrackingDR
-                0x0000000000081302                vTAMDEframeTXtrackingDR
-                0x000000000008135c                vTAMDEint2FiredPollActive
-                0x0000000000081390                vTAMDEreqTXnullTrackingCAP
-                0x00000000000813a9                vTAM_TxRetryTimer
- .text          0x00000000000813b8      0xba0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
-                0x00000000000813b8                eWBRTTxDone.10391
-                0x00000000000813d6                vTAMCOframeTXgoingIdle
-                0x00000000000813ef                vTAMCOframeTXcap
-                0x0000000000081412                eWCoRRxDone.10382
-                0x00000000000814bc                eWBcnRxDone.10394
-                0x0000000000081aa6                vTAMCOframeRXcap
-                0x0000000000081ab8                vTAMCOframeRXgoingIdle
-                0x0000000000081ace                vTAMCOframeRXnobeacon
-                0x0000000000081ae0                vTAMDEframeRX
-                0x0000000000081b08                vTAMDEframeRXtrackingDR
-                0x0000000000081b4b                vTAMDEframePreSyncReq
-                0x0000000000081b63                vTAMCOframeTXbeacon
-                0x0000000000081c2a                vTAMDEframeRXsyncReq
-                0x0000000000081e79                vTAMDEint1FiredTrackingCAPgts
-                0x0000000000081f2a                eWONTTxDone.10388
- .text          0x0000000000081f58      0xb1f C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
-                0x0000000000082093                bAHI_ReadMACID
-                0x00000000000820d9                vExpireHead.19943
-                0x0000000000082109                ToCoNet_vInit
-                0x000000000008244c                vfPrintf.constprop.58
-                0x00000000000825e7                vProcessEvCore.1472
-                0x000000000008266e                vMicroIntEnableOnly.constprop.55
-                0x000000000008269a                QUEUE__u8RemoveItem.part.1.4787
-                0x00000000000826d5                QUEUE__vAddItem.constprop.47
-                0x0000000000082707                _ToCoNet_bRfChChannel
-                0x000000000008279c                ToCoNet_ChMgr_bCh_Reconfig
-                0x0000000000082804                ToCoNet_ChMgr_vCh_TxFin
-                0x0000000000082830                vHnd_E_STATE_WAIT_TX.2617
-                0x00000000000828a0                vHnd_E_STATE_IDLE.2609
-                0x0000000000082904                vAHI_ProtocolPower.constprop.52
-                0x0000000000082912                XCV_vCtor.constprop.50
+ .text          0x00000000000808fc      0xac0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
+                0x00000000000808fc                vPMICassocReqTO_1.8819
+                0x0000000000080984                vTAMDEstartSync
+                0x0000000000080a03                eTAMselect
+                0x0000000000080b44                MAC_pvCtor
+                0x0000000000080f5f                u32AppApiDefInit
+                0x0000000000081014                _ToCoNet_vMacInit
+                0x000000000008107a                _ToCoNet_vRfConfig
+                0x00000000000811bc                vDeterminePowerState.13644
+                0x0000000000081241                vTAMDEint1FiredTrackingBeacon
+                0x00000000000812e1                vTAMDEint2FiredTrackingDR
+                0x0000000000081306                vTAMDEframeTXtrackingDR
+                0x0000000000081360                vTAMDEint2FiredPollActive
+                0x0000000000081394                vTAMDEreqTXnullTrackingCAP
+                0x00000000000813ad                vTAM_TxRetryTimer
+ .text          0x00000000000813bc      0xb1f C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+                0x00000000000814f7                bAHI_ReadMACID
+                0x000000000008153d                vExpireHead.19947
+                0x000000000008156d                ToCoNet_vInit
+                0x00000000000818b0                vfPrintf.constprop.58
+                0x0000000000081a4b                vProcessEvCore.1476
+                0x0000000000081ad2                vMicroIntEnableOnly.constprop.55
+                0x0000000000081afe                QUEUE__u8RemoveItem.part.1.4791
+                0x0000000000081b39                QUEUE__vAddItem.constprop.47
+                0x0000000000081b6b                _ToCoNet_bRfChChannel
+                0x0000000000081c00                ToCoNet_ChMgr_bCh_Reconfig
+                0x0000000000081c68                ToCoNet_ChMgr_vCh_TxFin
+                0x0000000000081c94                vHnd_E_STATE_WAIT_TX.2621
+                0x0000000000081d04                vHnd_E_STATE_IDLE.2613
+                0x0000000000081d68                vAHI_ProtocolPower.constprop.52
+                0x0000000000081d76                XCV_vCtor.constprop.50
  .text.unlikely
-                0x0000000000082a77      0x10e C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
-                0x0000000000082a77                Delay.20668.constprop.17
-                0x0000000000082af0                u32AppQApiInitInt_PATCH
-                0x0000000000082aff                showGPS
- .text          0x0000000000082b85      0xa55 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
-                0x0000000000082b85                bAES_CCM_DecodeKey
-                0x0000000000082c41                vHnd_E_STATE_FINISH_TX_FAIL.2594
-                0x0000000000082cf4                vHnd_E_STATE_FINISH_TX_SUCCESS.2599
-                0x0000000000082d78                vHnd_E_STATE_RUNNING.2625
-                0x0000000000082fc2                SERIAL_vTxReady
-                0x0000000000083023                vAppQApiPostHwIntT.3269
-                0x0000000000083147                vInitHardware.isra.2.1551
-                0x0000000000083507                ToCoNet_vMacStart
-                0x0000000000083520                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
-                0x0000000000083592                phy_ePibSet.part.1.12201
- .text          0x00000000000835da      0xcb0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
-                0x00000000000835da                TSV_eStart
-                0x00000000000836be                eTAStransmitRequest
-                0x0000000000083a59                vTAM_MCPSdataRequest
-                0x0000000000083a9c                bTACcheckPANconflict
-                0x0000000000083b55                TSV_eOpen
-                0x0000000000083b5d                vAppApiDefRestoreMacSettings
-                0x0000000000083c2e                vAppApiDefSaveMacSettings
-                0x0000000000083c8b                mac_vLPBSleep
-                0x0000000000083d50                pvAppApiDefGetMacAddrLocation
-                0x0000000000083d59                eAppApiDefPlmeGet
-                0x0000000000083dab                eAppApiDefPlmeSet
-                0x0000000000083e04                vAppApiDefMcpsRequest
-                0x0000000000083e2f                vHnd_E_STATE_PREPARE_TX.2604
- .text          0x000000000008428a      0xa32 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
-                0x000000000008428a                vAHI_IntHandlerTickTimer
-                0x00000000000842d1                vTACintRXheader
-                0x0000000000084acc                eGenRxHdrDone.10385
-                0x0000000000084adc                vTAMCOint1FiredCAP
-                0x0000000000084b4f                UART_vSetTxInterrupt
-                0x0000000000084b9a                vTAMCOstartBeacon
-                0x0000000000084bd6                vStartStoreValues.13041
-                0x0000000000084c8d                bStartCallback.13070
- .text          0x0000000000084cbc      0xa5c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
-                0x0000000000084cbc                vPostDcfm.10378
-                0x0000000000084d90                AppWarmStart
-                0x0000000000084e38                vSetNextChannel.10426
-                0x0000000000084e91                MAC_vHandleMlmeReqRsp
-                0x0000000000085641                vTAMDEint1FiredTracking
-                0x00000000000856b1                vTAMDEint1FiredSyncReq
- .text          0x0000000000085718      0x916 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
-                0x000000000008572d                mac_vLPBStartTimer
-                0x0000000000085a38                vTimerCallback.20650
-                0x0000000000085a43                vProcessEvCoreTx.2586
-                0x0000000000085b33                bAHI_SetClockRate
-                0x0000000000085c3e                bAES_CCMstar
-                0x0000000000085d0a                bAES_CCM_EncodeKey
-                0x0000000000085db7                pvHeap_Alloc
-                0x0000000000085dba                u32AHI_Init
-                0x0000000000085e7c                vMicroIntRestoreState
-                0x0000000000085e88                u8AHI_WakeTimerFiredStatus
-                0x0000000000085e9c                vAHI_WakeTimerStop.part.3.21330
-                0x0000000000085ebc                mac_vLPBStopTimer
-                0x0000000000085ec6                vAHI_UartSetRTSCTS.part.15.21111
-                0x0000000000085eed                vAHI_UartReset.part.4.21084
-                0x0000000000085f25                vAHI_UartSetControl.part.2.21068
-                0x0000000000085f76                vAHI_UartSetBaudDivisor.part.1.21064
-                0x0000000000085fb5                vAHI_WatchdogStop
-                0x0000000000085fcc                vAHI_CpuDoze
-                0x0000000000085fdf                cbAppWarmStart.part.3.1481
-                0x0000000000086006                vAHI_DioSetOutput
-                0x000000000008601a                vAHI_DioSetDirection
+                0x0000000000081edb      0x168 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+                0x0000000000081edb                Delay.20672.constprop.17
+                0x0000000000081f54                u32AppQApiInitInt_PATCH
+                0x0000000000081f63                showGPS
+ *fill*         0x0000000000082043        0x1 00
+ .text          0x0000000000082044      0xba0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+                0x0000000000082044                eWBRTTxDone.10395
+                0x0000000000082062                vTAMCOframeTXgoingIdle
+                0x000000000008207b                vTAMCOframeTXcap
+                0x000000000008209f                eWCoRRxDone.10386
+                0x0000000000082149                eWBcnRxDone.10398
+                0x0000000000082732                vTAMCOframeRXcap
+                0x0000000000082744                vTAMCOframeRXgoingIdle
+                0x000000000008275a                vTAMCOframeRXnobeacon
+                0x000000000008276c                vTAMDEframeRX
+                0x0000000000082794                vTAMDEframeRXtrackingDR
+                0x00000000000827d7                vTAMDEframePreSyncReq
+                0x00000000000827ef                vTAMCOframeTXbeacon
+                0x00000000000828b6                vTAMDEframeRXsyncReq
+                0x0000000000082b05                vTAMDEint1FiredTrackingCAPgts
+                0x0000000000082bb6                eWONTTxDone.10392
+ .text          0x0000000000082be4      0xa55 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+                0x0000000000082be4                bAES_CCM_DecodeKey
+                0x0000000000082ca0                vHnd_E_STATE_FINISH_TX_FAIL.2598
+                0x0000000000082d53                vHnd_E_STATE_FINISH_TX_SUCCESS.2603
+                0x0000000000082dd7                vHnd_E_STATE_RUNNING.2629
+                0x0000000000083021                SERIAL_vTxReady
+                0x0000000000083082                vAppQApiPostHwIntT.3273
+                0x00000000000831a6                vInitHardware.isra.2.1555
+                0x0000000000083566                ToCoNet_vMacStart
+                0x000000000008357f                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x00000000000835f1                phy_ePibSet.part.1.12205
+ .text          0x0000000000083639      0xcb0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+                0x0000000000083639                TSV_eStart
+                0x000000000008371d                eTAStransmitRequest
+                0x0000000000083ab8                vTAM_MCPSdataRequest
+                0x0000000000083afb                bTACcheckPANconflict
+                0x0000000000083bb4                TSV_eOpen
+                0x0000000000083bbc                vAppApiDefRestoreMacSettings
+                0x0000000000083c8d                vAppApiDefSaveMacSettings
+                0x0000000000083cea                mac_vLPBSleep
+                0x0000000000083daf                pvAppApiDefGetMacAddrLocation
+                0x0000000000083db8                eAppApiDefPlmeGet
+                0x0000000000083e0a                eAppApiDefPlmeSet
+                0x0000000000083e63                vAppApiDefMcpsRequest
+                0x0000000000083e8e                vHnd_E_STATE_PREPARE_TX.2608
+ .text          0x00000000000842e9      0xa32 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+                0x00000000000842e9                vAHI_IntHandlerTickTimer
+                0x0000000000084330                vTACintRXheader
+                0x0000000000084b2b                eGenRxHdrDone.10389
+                0x0000000000084b3b                vTAMCOint1FiredCAP
+                0x0000000000084bae                UART_vSetTxInterrupt
+                0x0000000000084bf9                vTAMCOstartBeacon
+                0x0000000000084c35                vStartStoreValues.13045
+                0x0000000000084cec                bStartCallback.13074
+ *fill*         0x0000000000084d1b        0x1 00
+ .text          0x0000000000084d1c      0xa5c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+                0x0000000000084d1c                vPostDcfm.10382
+                0x0000000000084df0                AppWarmStart
+                0x0000000000084e98                vSetNextChannel.10430
+                0x0000000000084ef1                MAC_vHandleMlmeReqRsp
+                0x00000000000856a1                vTAMDEint1FiredTracking
+                0x0000000000085711                vTAMDEint1FiredSyncReq
+ .text          0x0000000000085778      0x916 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
+                0x000000000008578d                mac_vLPBStartTimer
+                0x0000000000085a98                vTimerCallback.20654
+                0x0000000000085aa3                vProcessEvCoreTx.2590
+                0x0000000000085b93                bAHI_SetClockRate
+                0x0000000000085c9e                bAES_CCMstar
+                0x0000000000085d6a                bAES_CCM_EncodeKey
+                0x0000000000085e17                pvHeap_Alloc
+                0x0000000000085e1a                u32AHI_Init
+                0x0000000000085edc                vMicroIntRestoreState
+                0x0000000000085ee8                u8AHI_WakeTimerFiredStatus
+                0x0000000000085efc                vAHI_WakeTimerStop.part.3.21334
+                0x0000000000085f1c                mac_vLPBStopTimer
+                0x0000000000085f26                vAHI_UartSetRTSCTS.part.15.21115
+                0x0000000000085f4d                vAHI_UartReset.part.4.21088
+                0x0000000000085f85                vAHI_UartSetControl.part.2.21072
+                0x0000000000085fd6                vAHI_UartSetBaudDivisor.part.1.21068
+                0x0000000000086015                vAHI_WatchdogStop
+                0x000000000008602c                vAHI_CpuDoze
+                0x000000000008603f                cbAppWarmStart.part.3.1485
+                0x0000000000086066                vAHI_DioSetOutput
+                0x000000000008607a                vAHI_DioSetDirection
  .text.unlikely
-                0x000000000008602e       0xc1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
-                0x000000000008602e                vAHI_TimerEnable.part.1.20865.constprop.21
-                0x0000000000086099                vAHI_MemoryHold.20764
-                0x00000000000860de                vStartXtal32kExternalRc.20664
- .text          0x00000000000860ef      0x9c7 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
-                0x00000000000860ef                mac_vLPBAdjustBeaconOffset
-                0x000000000008614c                mac_u32LPBGetBeaconTimeout
-                0x0000000000086155                eWEnDTmrExpiry.10375
-                0x0000000000086160                eWEnDEdDone.10372
-                0x00000000000861bb                eGenlDontCare.10369
-                0x00000000000861c0                eGenlIllegal.9994
-                0x00000000000861c7                u32GetTimer0
-                0x00000000000861ce                vSetTimer0
-                0x00000000000861dd                SPRINTF_bPutChar.4878
-                0x0000000000086219                vHandlerPatch.4585
-                0x0000000000086250                u8HwEventHandler.1943
-                0x000000000008626f                vTACu32ToPayloadM
-                0x0000000000086287                bTACframeInProgress
-                0x00000000000862b1                bTACassessBeaconForPayload
-                0x0000000000086302                bIsBbcSafeForTx
-                0x0000000000086337                vTATwriteAclMaterialToHardware
-                0x000000000008635c                vTATsetBLE
-                0x0000000000086393                vTATgetFramePayload
-                0x00000000000863b0                eTATreadTXstatus
-                0x00000000000863f6                vTAHsetPhyStateDirect.part.0.14859
-                0x0000000000086412                vMEMreturn
-                0x0000000000086483                vTACinformOriginator
-                0x00000000000864a5                pvMEMget
-                0x00000000000864d1                vTAMDEdetermineNullState
-                0x00000000000864eb                vTAMCOupdatePendingList
-                0x00000000000865bd                vTAMCOsetCoordinator
-                0x00000000000865e3                vPhySetChannel
-                0x00000000000865fc                eScanHandleEvt.part.0.10405
-                0x0000000000086625                mac_eDcfmIndPost
-                0x0000000000086646                mac_psDcfmIndGetBuf
-                0x0000000000086667                vMLMErxEnableConfirm
-                0x0000000000086699                vMLMEcommStatus
-                0x00000000000866fc                vMLMEcommStatusFromFrame
-                0x0000000000086740                vMLMEsyncLoss
-                0x0000000000086773                vPMICpostFailedAssocDcfm
-                0x00000000000867ab                vPMICassocReqTO_2.8822
-                0x00000000000867c2                MAC_vPibSetPanId
-                0x00000000000867dd                vHandleTofRequest.6928
-                0x00000000000867e0                vAppApiDefSetPrbsSeed
-                0x0000000000086804                u8CCITT8
-                0x000000000008682a                bAES_CCM_KeyReg
-                0x0000000000086869                bFifoPush.3290
-                0x00000000000868a2                vAppQApiPostMlme.3276
-                0x00000000000868c1                vAppQApiPostMcps.3283
-                0x00000000000868dc                pvFifoPull.3287
-                0x0000000000086903                psAppQApiGetMlmeBuffer.3273
-                0x000000000008690b                psAppQApiGetMcpsBuffer.3280
-                0x0000000000086913                ToCoNet_vReg_mod_TxRxQueueMid
-                0x0000000000086994                PRSEV_vSetState
-                0x00000000000869a4                PRSEV_u8Register
-                0x00000000000869e2                PRSEV_vProcessEv_core.1733
-                0x0000000000086a84                PRSEV_vProcessEvPost
+                0x000000000008608e       0xc1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
+                0x000000000008608e                vAHI_TimerEnable.part.1.20869.constprop.21
+                0x00000000000860f9                vAHI_MemoryHold.20768
+                0x000000000008613e                vStartXtal32kExternalRc.20668
+ .text          0x000000000008614f      0x9c7 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+                0x000000000008614f                mac_vLPBAdjustBeaconOffset
+                0x00000000000861ac                mac_u32LPBGetBeaconTimeout
+                0x00000000000861b5                eWEnDTmrExpiry.10379
+                0x00000000000861c0                eWEnDEdDone.10376
+                0x000000000008621b                eGenlDontCare.10373
+                0x0000000000086220                eGenlIllegal.9998
+                0x0000000000086227                u32GetTimer0
+                0x000000000008622e                vSetTimer0
+                0x000000000008623d                SPRINTF_bPutChar.4882
+                0x0000000000086279                vHandlerPatch.4589
+                0x00000000000862b0                u8HwEventHandler.1947
+                0x00000000000862cf                vTACu32ToPayloadM
+                0x00000000000862e7                bTACframeInProgress
+                0x0000000000086311                bTACassessBeaconForPayload
+                0x0000000000086362                bIsBbcSafeForTx
+                0x0000000000086397                vTATwriteAclMaterialToHardware
+                0x00000000000863bc                vTATsetBLE
+                0x00000000000863f3                vTATgetFramePayload
+                0x0000000000086410                eTATreadTXstatus
+                0x0000000000086456                vTAHsetPhyStateDirect.part.0.14863
+                0x0000000000086472                vMEMreturn
+                0x00000000000864e3                vTACinformOriginator
+                0x0000000000086505                pvMEMget
+                0x0000000000086531                vTAMDEdetermineNullState
+                0x000000000008654b                vTAMCOupdatePendingList
+                0x000000000008661d                vTAMCOsetCoordinator
+                0x0000000000086643                vPhySetChannel
+                0x000000000008665c                eScanHandleEvt.part.0.10409
+                0x0000000000086685                mac_eDcfmIndPost
+                0x00000000000866a6                mac_psDcfmIndGetBuf
+                0x00000000000866c7                vMLMErxEnableConfirm
+                0x00000000000866f9                vMLMEcommStatus
+                0x000000000008675c                vMLMEcommStatusFromFrame
+                0x00000000000867a0                vMLMEsyncLoss
+                0x00000000000867d3                vPMICpostFailedAssocDcfm
+                0x000000000008680b                vPMICassocReqTO_2.8826
+                0x0000000000086822                MAC_vPibSetPanId
+                0x000000000008683d                vHandleTofRequest.6932
+                0x0000000000086840                vAppApiDefSetPrbsSeed
+                0x0000000000086864                u8CCITT8
+                0x000000000008688a                bAES_CCM_KeyReg
+                0x00000000000868c9                bFifoPush.3294
+                0x0000000000086902                vAppQApiPostMlme.3280
+                0x0000000000086921                vAppQApiPostMcps.3287
+                0x000000000008693c                pvFifoPull.3291
+                0x0000000000086963                psAppQApiGetMlmeBuffer.3277
+                0x000000000008696b                psAppQApiGetMcpsBuffer.3284
+                0x0000000000086973                ToCoNet_vReg_mod_TxRxQueueMid
+                0x00000000000869f4                PRSEV_vSetState
+                0x0000000000086a04                PRSEV_u8Register
+                0x0000000000086a42                PRSEV_vProcessEv_core.1737
+                0x0000000000086ae4                PRSEV_vProcessEvPost
  .text.unlikely
-                0x0000000000086ab6      0x174 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
-                0x0000000000086ab6                _PRSEV_vProcessEvSingleH
-                0x0000000000086ac5                parseLongitude
-                0x0000000000086b19                parseLatitude
-                0x0000000000086b6b                parseDate
-                0x0000000000086bbc                tokenOnList
-                0x0000000000086c00                parseHex
- .text          0x0000000000086c2a      0x9f1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
-                0x0000000000086d8a                bTAM_AES_CCMstarPatch
-                0x0000000000086ece                bTAM_AES_CCMstarPatch2006
-                0x00000000000871ad                bTATsendFrame
-                0x0000000000087200                vTrySendFromDirectCAP.12973
-                0x000000000008721b                vTrySendFromDirectNoBeacon.12977
-                0x0000000000087246                vTAMCOint1Fired
-                0x0000000000087362                vTAMCOreqTXnoBeacon
-                0x0000000000087373                vTAMCOreqTXinCAP
-                0x0000000000087398                vTrySendUnslotted.13518
-                0x00000000000873b1                bSendDataRequest.13520
-                0x00000000000874c3                bProcessBeaconRX.13523
-                0x0000000000087594                cbAppColdStart.part.4.1556
- .text          0x000000000008761b      0xad4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
-                0x000000000008761b                vAHI_IntHandlerAnalogPeriph
-                0x000000000008763b                vTTIBLETimerExpired
-                0x0000000000087646                vACI_CmdWaitBusy
-                0x00000000000876aa                vACI_OptimisedCcmStar
-                0x00000000000878c2                vTAIdisableInterrupt
-                0x00000000000878db                vUpdateRegisters.19988
-                0x0000000000087922                psRemove.part.0.19938
-                0x0000000000087951                vMAC_MISCpollConfirm
-                0x0000000000087982                MAC_u8AclFindInfo
-                0x0000000000087aac                vTASretrieveSecurity
-                0x0000000000087ace                MAC_bLookUpKeyDescriptor.17490
-                0x0000000000087b48                u8TSCframeIncrease
-                0x0000000000087b81                vTSCpostTransmitUpdate
-                0x0000000000087bb1                vCopyToDataFromMacAddr.17400
-                0x0000000000087be4                bTSCgetOutgoingInfo
-                0x0000000000087ced                vDoGoOff.16680
-                0x0000000000087d07                psTAQsearchFifo
-                0x0000000000087d50                bTAQremoveFromFifo
-                0x0000000000087d8d                vTTITransactionTimerExpired
-                0x0000000000087db6                vTAMinsertEvent
-                0x0000000000087e1c                vTTITimer2Expired
-                0x0000000000087e20                vTTITimer1Expired
-                0x0000000000087e24                vTAM_TxRetryTimeout
-                0x0000000000087e28                vTACsetTxFrameDefaults
-                0x0000000000087e4e                u8TACgetHeaderSize
-                0x0000000000087e8b                bUpdateTime.15718
-                0x0000000000087ec6                vTACbuildBeacon
-                0x00000000000880ce                u32TACpayloadToU32M
- .text          0x00000000000880ef       0xe5 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
-                0x00000000000880ef                SERIAL_bTxChar
-                0x00000000000881a0                vAppApiDefMlmeRequest
-                0x00000000000881cb                pvAppApiDefGetMacHandle
+                0x0000000000086b16      0x174 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+                0x0000000000086b16                _PRSEV_vProcessEvSingleH
+                0x0000000000086b25                parseLongitude
+                0x0000000000086b79                parseLatitude
+                0x0000000000086bcb                parseDate
+                0x0000000000086c1c                tokenOnList
+                0x0000000000086c60                parseHex
+ .text          0x0000000000086c8a      0x9f1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+                0x0000000000086dea                bTAM_AES_CCMstarPatch
+                0x0000000000086f2e                bTAM_AES_CCMstarPatch2006
+                0x000000000008720d                bTATsendFrame
+                0x0000000000087260                vTrySendFromDirectCAP.12977
+                0x000000000008727b                vTrySendFromDirectNoBeacon.12981
+                0x00000000000872a6                vTAMCOint1Fired
+                0x00000000000873c2                vTAMCOreqTXnoBeacon
+                0x00000000000873d3                vTAMCOreqTXinCAP
+                0x00000000000873f8                vTrySendUnslotted.13522
+                0x0000000000087411                bSendDataRequest.13524
+                0x0000000000087523                bProcessBeaconRX.13527
+                0x00000000000875f4                cbAppColdStart.part.4.1560
+ .text          0x000000000008767b      0xad4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
+                0x000000000008767b                vAHI_IntHandlerAnalogPeriph
+                0x000000000008769b                vTTIBLETimerExpired
+                0x00000000000876a6                vACI_CmdWaitBusy
+                0x000000000008770a                vACI_OptimisedCcmStar
+                0x0000000000087922                vTAIdisableInterrupt
+                0x000000000008793b                vUpdateRegisters.19992
+                0x0000000000087982                psRemove.part.0.19942
+                0x00000000000879b1                vMAC_MISCpollConfirm
+                0x00000000000879e2                MAC_u8AclFindInfo
+                0x0000000000087b0c                vTASretrieveSecurity
+                0x0000000000087b2e                MAC_bLookUpKeyDescriptor.17494
+                0x0000000000087ba8                u8TSCframeIncrease
+                0x0000000000087be1                vTSCpostTransmitUpdate
+                0x0000000000087c11                vCopyToDataFromMacAddr.17404
+                0x0000000000087c44                bTSCgetOutgoingInfo
+                0x0000000000087d4d                vDoGoOff.16684
+                0x0000000000087d67                psTAQsearchFifo
+                0x0000000000087db0                bTAQremoveFromFifo
+                0x0000000000087ded                vTTITransactionTimerExpired
+                0x0000000000087e16                vTAMinsertEvent
+                0x0000000000087e7c                vTTITimer2Expired
+                0x0000000000087e80                vTTITimer1Expired
+                0x0000000000087e84                vTAM_TxRetryTimeout
+                0x0000000000087e88                vTACsetTxFrameDefaults
+                0x0000000000087eae                u8TACgetHeaderSize
+                0x0000000000087eeb                bUpdateTime.15722
+                0x0000000000087f26                vTACbuildBeacon
+                0x000000000008812e                u32TACpayloadToU32M
+ .text          0x000000000008814f       0xe5 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+                0x000000000008814f                SERIAL_bTxChar
+                0x0000000000088200                vAppApiDefMlmeRequest
+                0x000000000008822b                pvAppApiDefGetMacHandle
  .text.unlikely
-                0x00000000000881d4      0x662 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
-                0x00000000000881f1                vProcessIncomingHwEvent.2112
-                0x00000000000887bb                SERIAL_vFlush
+                0x0000000000088234      0x67a C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+                0x0000000000088251                vProcessIncomingHwEvent.2116
+                0x0000000000088833                SERIAL_vFlush
  .text.unlikely
-                0x0000000000088836      0x562 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
-                0x0000000000088836                ToCoNet_vStart
- .text          0x0000000000088d98      0x6b0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
-                0x0000000000088d98                UART_vHandleUartInterrupt.4712
-                0x0000000000088e1f                vXCV_IntHandlerPhy
-                0x0000000000088ed1                vScanHandleTimer.9991
-                0x0000000000088ed6                vXCV_IntHandlerBbc
-                0x0000000000088f79                u32AHI_ReadIndexSectorBits.constprop.7
-                0x0000000000088fda                vTAIsetCapTime
-                0x0000000000088ffb                vTAIsetRxEnableTime
-                0x000000000008901c                vDoGoActive.16682
-                0x000000000008903e                vTAMRXEint2Fired
-                0x0000000000089074                vMLMEbeaconNotify
-                0x00000000000891d2                vMCPSframeReceived
-                0x0000000000089295                vTAMRXEsetPhy
-                0x0000000000089358                vTAHsetPhyState
-                0x0000000000089388                vTAMCOint2Fired
-                0x00000000000893a8                vSetPHYfromMacValue.13516
-                0x00000000000893da                vTAMDEint1FiredWaitDR
-                0x00000000000893e7                vTACsetPHYfromMacValue
-                0x0000000000089408                vTAMRXEsetReceiveForPibChange
+                0x00000000000888ae      0x562 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+                0x00000000000888ae                ToCoNet_vStart
+ .text          0x0000000000088e10      0x6b0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+                0x0000000000088e10                UART_vHandleUartInterrupt.4716
+                0x0000000000088e97                vXCV_IntHandlerPhy
+                0x0000000000088f49                vScanHandleTimer.9995
+                0x0000000000088f4e                vXCV_IntHandlerBbc
+                0x0000000000088ff1                u32AHI_ReadIndexSectorBits.constprop.7
+                0x0000000000089052                vTAIsetCapTime
+                0x0000000000089073                vTAIsetRxEnableTime
+                0x0000000000089094                vDoGoActive.16686
+                0x00000000000890b6                vTAMRXEint2Fired
+                0x00000000000890ec                vMLMEbeaconNotify
+                0x000000000008924a                vMCPSframeReceived
+                0x000000000008930d                vTAMRXEsetPhy
+                0x00000000000893d0                vTAHsetPhyState
+                0x0000000000089400                vTAMCOint2Fired
+                0x0000000000089420                vSetPHYfromMacValue.13520
+                0x0000000000089452                vTAMDEint1FiredWaitDR
+                0x000000000008945f                vTACsetPHYfromMacValue
+                0x0000000000089480                vTAMRXEsetReceiveForPibChange
  .text.unlikely
-                0x0000000000089448      0x108 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
-                0x0000000000089448                bStartXtal32k.20674
- .text          0x0000000000089550      0x823 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
-                0x0000000000089550                vProcessEvCoreMac
-                0x00000000000895b7                ToCoNet_vMain
- *fill*         0x0000000000089d73        0x1 00
- .text          0x0000000000089d74      0x784 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans15.ltrans.o
-                0x0000000000089d74                eGenTmrExpiry.10687
-                0x0000000000089db6                eWEDTEdDone.10690
-                0x0000000000089dda                TSV_eStop
-                0x0000000000089e98                bPMICdisassocReqSent.8811
-                0x0000000000089f52                MAC_vHandleMcpsReqRsp
-                0x0000000000089fdf                bMCPSframeTXcomplete.11422
-                0x000000000008a034                bSendSyncLoss.15653
-                0x000000000008a04c                bPollReqSent.19249
-                0x000000000008a064                bTASsendCommStatusInd
-                0x000000000008a079                bAssocRespSent.8807
-                0x000000000008a08c                eTACprocessFrameTXcomplete
-                0x000000000008a209                vTAMCOframeTXnobeacon
-                0x000000000008a21f                vTAMCOframeStarting
-                0x000000000008a238                vTAMDEframeTXDEnull
-                0x000000000008a25d                vTAMDEframeTXtrackingCAPgts
-                0x000000000008a28b                bPMICassocReqSent.8803
-                0x000000000008a30d                bPMICassocReqPollSent.8818
-                0x000000000008a361                eWChCChanChgd.10402
- .text          0x000000000008a4f8      0x531 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
-                0x000000000008a4f8                AppColdStart
- .text          0x000000000008aa29       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
-                0x000000000008aa29                memcmp
- .text          0x000000000008aa4e       0x19 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
- .text          0x000000000008aa67       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
-                0x000000000008aa67                memset
- .text          0x000000000008aa79       0x1c c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
-                0x000000000008aa79                strchr
- .text          0x000000000008aa95       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
-                0x000000000008aa95                strcmp
- .text          0x000000000008aaba       0x15 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
-                0x000000000008aaba                strcpy
- .text          0x000000000008aacf       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
-                0x000000000008aacf                strlen
- .text          0x000000000008aae1       0x38 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
-                0x000000000008aae1                strncmp
- .text          0x000000000008ab19       0x2b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
-                0x000000000008ab19                strncpy
- *fill*         0x000000000008ab44        0x0 00
- .text          0x000000000008ab44       0x30 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
-                0x000000000008ab44                __divsi3
- .text          0x000000000008ab74       0x27 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
-                0x000000000008ab74                vAHI_InterruptSetPriority
-                0x000000000008ab92                vAHI_InterruptSetActivePriorityLevel
+                0x00000000000894c0      0x108 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+                0x00000000000894c0                bStartXtal32k.20678
+ .text          0x00000000000895c8      0x827 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
+                0x00000000000895c8                vProcessEvCoreMac
+                0x000000000008962f                ToCoNet_vMain
+ *fill*         0x0000000000089def        0x1 00
+ .text          0x0000000000089df0      0x784 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans15.ltrans.o
+                0x0000000000089df0                eGenTmrExpiry.10691
+                0x0000000000089e32                eWEDTEdDone.10694
+                0x0000000000089e56                TSV_eStop
+                0x0000000000089f14                bPMICdisassocReqSent.8815
+                0x0000000000089fce                MAC_vHandleMcpsReqRsp
+                0x000000000008a05b                bMCPSframeTXcomplete.11426
+                0x000000000008a0b0                bSendSyncLoss.15657
+                0x000000000008a0c8                bPollReqSent.19253
+                0x000000000008a0e0                bTASsendCommStatusInd
+                0x000000000008a0f5                bAssocRespSent.8811
+                0x000000000008a108                eTACprocessFrameTXcomplete
+                0x000000000008a285                vTAMCOframeTXnobeacon
+                0x000000000008a29b                vTAMCOframeStarting
+                0x000000000008a2b4                vTAMDEframeTXDEnull
+                0x000000000008a2d9                vTAMDEframeTXtrackingCAPgts
+                0x000000000008a307                bPMICassocReqSent.8807
+                0x000000000008a389                bPMICassocReqPollSent.8822
+                0x000000000008a3dd                eWChCChanChgd.10406
+ .text          0x000000000008a574      0x531 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
+                0x000000000008a574                AppColdStart
+ .text          0x000000000008aaa5       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x000000000008aaa5                memcmp
+ .text          0x000000000008aaca       0x19 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x000000000008aae3       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x000000000008aae3                memset
+ .text          0x000000000008aaf5       0x1c c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+                0x000000000008aaf5                strchr
+ .text          0x000000000008ab11       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+                0x000000000008ab11                strcmp
+ .text          0x000000000008ab36       0x15 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                0x000000000008ab36                strcpy
+ .text          0x000000000008ab4b       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x000000000008ab4b                strlen
+ .text          0x000000000008ab5d       0x38 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                0x000000000008ab5d                strncmp
+ .text          0x000000000008ab95       0x2b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                0x000000000008ab95                strncpy
+ *fill*         0x000000000008abc0        0x0 00
+ .text          0x000000000008abc0       0x30 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x000000000008abc0                __divsi3
+ .text          0x000000000008abf0       0x27 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x000000000008abf0                vAHI_InterruptSetPriority
+                0x000000000008ac0e                vAHI_InterruptSetActivePriorityLevel
  .text.vMicroSyscall
-                0x000000000008ab9b       0x17 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
-                0x000000000008ab9b                vMicroSyscall
- .text          0x000000000008abb2        0xe c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
-                0x000000000008abb2                atoi
-                0x000000000008abb9                _atoi_r
- .text          0x000000000008abc0      0x164 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
-                0x000000000008abc0                _strtol_r
-                0x000000000008ad12                strtol
- .text          0x000000000008ad24      0x204 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
-                0x000000000008ad24                __udivsi3
- .text          0x000000000008af28      0x1b0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
-                0x000000000008af28                __umodsi3
-                0x000000000008b0d8                _flash_end = ABSOLUTE (.)
+                0x000000000008ac17       0x17 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x000000000008ac17                vMicroSyscall
+ .text          0x000000000008ac2e        0xe c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+                0x000000000008ac2e                atoi
+                0x000000000008ac35                _atoi_r
+ .text          0x000000000008ac3c      0x164 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+                0x000000000008ac3c                _strtol_r
+                0x000000000008ad8e                strtol
+ .text          0x000000000008ada0      0x204 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x000000000008ada0                __udivsi3
+ .text          0x000000000008afa4      0x1b0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000008afa4                __umodsi3
+                0x000000000008b154                _flash_end = ABSOLUTE (.)
 
-.rela.dyn       0x000000000008b0d8        0x0
+.rela.dyn       0x000000000008b154        0x0
  .rela.text     0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
- .rela.rodata   0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
  .rela.text.unlikely
                 0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .rela.rodata   0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
  .rela.data     0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
                 0x000000000400004c                . = ORIGIN (ram)
 
-.data           0x000000000400004c      0x4dc load address 0x000000000008b0d8
+.data           0x000000000400004c      0x4dc load address 0x000000000008b154
                 0x000000000400004c                _ram_data_start = ABSOLUTE (.)
  *(.data*)
- .data          0x000000000400004c        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
+ .data          0x000000000400004c        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
  .data.initinboot
-                0x000000000400004d        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
+                0x000000000400004d        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
                 0x000000000400004d                gMAC_u8MaxBuffers
- .data          0x000000000400004e        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
+ .data          0x000000000400004e        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
                 0x000000000400004e                _toconet_tx_u8_init_queue_flag
  *fill*         0x000000000400004f        0x1 00
  .data.initinboot
-                0x0000000004000050        0x8 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
- .data          0x0000000004000058        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
-                0x0000000004000058                u8TxWkrNow.2727
+                0x0000000004000050        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+ .data          0x0000000004000058        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+                0x0000000004000058                u8TxWkrNow.2731
  *fill*         0x0000000004000059        0x3 00
- .data          0x000000000400005c        0x4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
+ .data          0x000000000400005c        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
                 0x000000000400005c                u32HeapStart
- .data          0x0000000004000060       0x8c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
- .data          0x00000000040000ec        0x2 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
+ .data          0x0000000004000060       0x8c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+ .data          0x00000000040000ec        0x2 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
  *fill*         0x00000000040000ee        0x2 00
  .data          0x00000000040000f0        0x4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
                 0x00000000040000f0                __ctype_ptr__
@@ -922,79 +925,79 @@ LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.
                 0x0000000004000528                . = ALIGN (0x4)
                 0x0000000004000528                _ram_data_end = ABSOLUTE (.)
 
-.bss            0x0000000004000528     0x1e90 load address 0x000000000008b5b4
+.bss            0x0000000004000528     0x1e90 load address 0x000000000008b630
                 0x0000000004000528                _bss_start = ABSOLUTE (.)
  *(.bss*)
- .bss           0x0000000004000528       0x20 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
+ .bss           0x0000000004000528       0x20 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
                 0x0000000004000528                g_sXcv
-                0x000000000400052c                prMcpsRequest.5815
-                0x0000000004000530                prMlmeRequest.5814
-                0x0000000004000534                prOriginalHandler.4589
+                0x000000000400052c                prMcpsRequest.5819
+                0x0000000004000530                prMlmeRequest.5818
+                0x0000000004000534                prOriginalHandler.4593
  .bss.initinboot
-                0x0000000004000548        0x8 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
+                0x0000000004000548        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
                 0x0000000004000548                g_u32MacAddrLocation
                 0x000000000400054c                prvUserTxStartedCallback
- .bss           0x0000000004000550       0x40 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
-                0x0000000004000550                g_sLP
-                0x000000000400058c                g_pvMac
+ .bss           0x0000000004000550      0x724 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+                0x0000000004000550                prApAppCallback.20483
+                0x0000000004000554                prSpiAppCallback.20642
+                0x0000000004000558                prSiAppCallback.21837
+                0x000000000400055c                prAppMcpsCallback.3516
+                0x0000000004000560                prAppMlmeCallback.3517
+                0x0000000004000564                gbTimeOutFlag.20841
  .bss.initinboot
-                0x0000000004000590      0x1c0 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
-                0x0000000004000590                g_sMac
- .bss           0x0000000004000750      0x724 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
-                0x0000000004000750                prApAppCallback.20479
-                0x0000000004000754                prSpiAppCallback.20638
-                0x0000000004000758                prSiAppCallback.21833
-                0x000000000400075c                prAppMcpsCallback.3512
-                0x0000000004000760                prAppMlmeCallback.3513
-                0x0000000004000764                gbTimeOutFlag.20837
- .bss.initinboot
-                0x0000000004000e74        0x4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
-                0x0000000004000e74                prSysCtrlAppCallback.20841
+                0x0000000004000c74        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+                0x0000000004000c74                prSysCtrlAppCallback.20845
  .bss.dontinitinboot
-                0x0000000004000e78        0x8 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
- .bss           0x0000000004000e80      0x430 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
-                0x0000000004000e80                prAppHwCallback.3514
-                0x0000000004000e84                TxWorker_u8Num.2684
-                0x0000000004000e88                prUart1AppCallback.21305
-                0x0000000004000e8c                prUart0AppCallback.21304
- .bss           0x00000000040012b0       0x28 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
-                0x00000000040012b0                sCh_Context.3146
-                0x00000000040012b4                asTx.2683
+                0x0000000004000c78        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+ .bss           0x0000000004000c80       0x40 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+                0x0000000004000c80                g_sLP
+                0x0000000004000cbc                g_pvMac
  .bss.initinboot
-                0x00000000040012d8        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
+                0x0000000004000cc0      0x1c0 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+                0x0000000004000cc0                g_sMac
+ .bss           0x0000000004000e80      0x430 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+                0x0000000004000e80                prAppHwCallback.3518
+                0x0000000004000e84                TxWorker_u8Num.2688
+                0x0000000004000e88                prUart1AppCallback.21309
+                0x0000000004000e8c                prUart0AppCallback.21308
+ .bss           0x00000000040012b0       0x28 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+                0x00000000040012b0                sCh_Context.3150
+                0x00000000040012b4                asTx.2687
+ .bss.initinboot
+                0x00000000040012d8        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
  *fill*         0x00000000040012d9        0x3 00
- .bss           0x00000000040012dc       0x28 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
-                0x00000000040012dc                asUARTS.4754
- .bss           0x0000000004001304       0x78 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
-                0x0000000004001304                bWakeupByButton.1636
+ .bss           0x00000000040012dc       0x28 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+                0x00000000040012dc                asUARTS.4758
+ .bss           0x0000000004001304       0x78 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+                0x0000000004001304                bWakeupByButton.1644
                 0x0000000004001308                sToCoNet_AppContext
                 0x0000000004001324                sToCoNet_Context
-                0x000000000400136c                sAssocSecurity.9432
+                0x000000000400136c                sAssocSecurity.9436
                 0x0000000004001378                g_bJenieBackwardsCompatibilityMode
- .bss           0x000000000400137c        0x4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
+ .bss           0x000000000400137c        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
  .bss.dontinitinboot
-                0x0000000004001380        0x4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
- .bss           0x0000000004001384      0xb04 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
- .bss           0x0000000004001e88       0x94 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
-                0x0000000004001e88                au8sprintf.4924
-                0x0000000004001e8c                SPRINTF_MAX_BUFF.4926
+                0x0000000004001380        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
+ .bss           0x0000000004001384      0xb04 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+ .bss           0x0000000004001e88       0x94 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+                0x0000000004001e88                au8sprintf.4928
+                0x0000000004001e8c                SPRINTF_MAX_BUFF.4930
  .bss.dontinitinboot
-                0x0000000004001f1c        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
- .bss           0x0000000004001f1d        0x1 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
+                0x0000000004001f1c        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+ .bss           0x0000000004001f1d        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
                 0x0000000004001f1d                u8TAM_TxStatusOverride
  *fill*         0x0000000004001f1e        0x2 00
- .bss           0x0000000004001f20      0x12c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
+ .bss           0x0000000004001f20      0x12c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
                 0x0000000004001f20                _SERIAL_bmTxIntEnabled
- .bss           0x000000000400204c      0x180 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
-                0x000000000400204c                u8AppId_Pkt_head.4458
-                0x0000000004002050                u32AppId.4455
-                0x0000000004002054                u32MyAddr.4457
-                0x0000000004002058                bRxQueue_Init.4456
-                0x000000000400205c                psRxQueueList.4454
+ .bss           0x000000000400204c      0x180 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+                0x000000000400204c                u8AppId_Pkt_head.4462
+                0x0000000004002050                u32AppId.4459
+                0x0000000004002054                u32MyAddr.4461
+                0x0000000004002058                bRxQueue_Init.4460
+                0x000000000400205c                psRxQueueList.4458
                 0x0000000004002070                prTickTimeAppCallback
-                0x0000000004002074                apfTimerAppCallback.21050
-                0x0000000004002088                au16TimerSettings.20999
-                0x0000000004002094                asEventHandler.1800
+                0x0000000004002074                apfTimerAppCallback.21054
+                0x0000000004002088                au16TimerSettings.21003
+                0x0000000004002094                asEventHandler.1804
                 0x0000000004002134                sEvVars
                 0x0000000004002150                u32TickCount_ms
                 0x0000000004002154                au8Txdatabuff_idx_sTxQueue
@@ -1008,30 +1011,30 @@ LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.
                 0x00000000040021a4                au8Rxdatabuff_idx_sRxQueueCmd
                 0x00000000040021a8                u8RxBuffSiz_sRxQueueCmd
                 0x00000000040021ac                sRxdatabuff_sRxQueueCmd
-                0x00000000040021b0                sRxQueueCmd.2251
- .bss           0x00000000040021cc       0x1c C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
-                0x00000000040021cc                bTxEventQueued.16548
-                0x00000000040021cd                u8TxEventStatus.16549
+                0x00000000040021b0                sRxQueueCmd.2255
+ .bss           0x00000000040021cc       0x1c C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+                0x00000000040021cc                bTxEventQueued.16552
+                0x00000000040021cd                u8TxEventStatus.16553
                 0x00000000040021d0                sAppHousekeeping
- .bss           0x00000000040021e8       0xe4 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
-                0x00000000040021e8                sMcpsIndQueue.3508
-                0x00000000040021f8                sMcpsIndBufferQueue.3506
-                0x0000000004002208                sMlmeIndQueue.3509
-                0x0000000004002218                sMlmeIndBufferQueue.3507
-                0x0000000004002228                sHwIndQueue.3510
-                0x0000000004002238                sHwIndBufferQueue.3511
+ .bss           0x00000000040021e8       0xe4 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
+                0x00000000040021e8                sMcpsIndQueue.3512
+                0x00000000040021f8                sMcpsIndBufferQueue.3510
+                0x0000000004002208                sMlmeIndQueue.3513
+                0x0000000004002218                sMlmeIndBufferQueue.3511
+                0x0000000004002228                sHwIndQueue.3514
+                0x0000000004002238                sHwIndBufferQueue.3515
                 0x0000000004002248                _u32_INT_adc_comp
                 0x000000000400224c                _u32_INT_ticktimer
-                0x0000000004002250                sOpt.4761
+                0x0000000004002250                sOpt.4765
                 0x0000000004002260                asSerialPorts
-                0x0000000004002298                sAppData.1613
+                0x0000000004002298                sAppData.1621
                 0x00000000040022a8                sSerStream
                 0x00000000040022b0                sSerPort
- .bss           0x00000000040022cc       0x14 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans15.ltrans.o
+ .bss           0x00000000040022cc       0x14 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans15.ltrans.o
                 0x00000000040022cc                s_sTimerList
-                0x00000000040022dc                u8AssocResponsesInProgress.9431
- .bss           0x00000000040022e0       0x98 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
-                0x00000000040022e0                sContext.4579
+                0x00000000040022dc                u8AssocResponsesInProgress.9435
+ .bss           0x00000000040022e0       0x98 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
+                0x00000000040022e0                sContext.4583
                 0x000000000400230c                sToCoNet_Modules
  .bss.dontinitinboot
                 0x0000000004002378       0x40 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
@@ -1043,60 +1046,60 @@ LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.
                 0x00000000040023b8                . = ALIGN (0x4)
                 0x00000000040023b8                _bss_end = ABSOLUTE (.)
 
-.heap           0x00000000040023b8      0xd16 load address 0x000000000008d444
+.heap           0x00000000040023b8      0xd16 load address 0x000000000008d4c0
                 0x00000000040023b8                _heap_start = ABSOLUTE (.)
                 0x00000000040030ce                . = (. + _minimum_heap_size)
  *fill*         0x00000000040023b8      0xd16 00
 
-.stack          0x0000000004007800      0x800 load address 0x000000000009288c
+.stack          0x0000000004007800      0x800 load address 0x0000000000092908
                 0x0000000004007800                _heap_end = ABSOLUTE (.)
                 0x0000000004007800                _stack_low_water_mark = ABSOLUTE (.)
                 0x0000000004008000                . = (. + _stack_size)
  *fill*         0x0000000004007800      0x800 00
 
-.test           0x000000000008b5b4        0x1
-                0x000000000008b5b4        0x1 BYTE 0xff
-                0x000000000008b0d8                _flash_data_start = LOADADDR (.data)
+.test           0x000000000008b630        0x1
+                0x000000000008b630        0x1 BYTE 0xff
+                0x000000000008b154                _flash_data_start = LOADADDR (.data)
                 0x00000000000004dc                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
                 0x0000000000001e90                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
-                0x000000000000b5b4                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x000000000000b630                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
                 0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
                 0x0000000001001580                _app_ram_start = 0x1001580
                 0x000000000400005c                PROVIDE (_heap_location, u32HeapStart)
                 0x000000000400005c                PROVIDE (heap_location, u32HeapStart)
-                0x0000000000083b55                TSV_eOpenVector = TSV_eOpen
-                0x00000000000835da                TSV_eStartVector = TSV_eStart
-                0x0000000000089dda                TSV_eStopVector = TSV_eStop
-                0x00000000000881cb                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
-                0x0000000000080f5b                u32AppApiInit = u32AppApiDefInit
-                0x00000000000881a0                vAppApiMlmeRequest = vAppApiDefMlmeRequest
-                0x0000000000083e04                vAppApiMcpsRequest = vAppApiDefMcpsRequest
-                0x0000000000083dab                eAppApiPlmeSet = eAppApiDefPlmeSet
-                0x0000000000083d59                eAppApiPlmeGet = eAppApiDefPlmeGet
-                0x0000000000083d50                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
-                0x0000000000083c2e                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
-                0x0000000000083b5d                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+                0x0000000000083bb4                TSV_eOpenVector = TSV_eOpen
+                0x0000000000083639                TSV_eStartVector = TSV_eStart
+                0x0000000000089e56                TSV_eStopVector = TSV_eStop
+                0x000000000008822b                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x0000000000080f5f                u32AppApiInit = u32AppApiDefInit
+                0x0000000000088200                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x0000000000083e63                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x0000000000083e0a                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x0000000000083db8                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x0000000000083daf                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x0000000000083c8d                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x0000000000083bbc                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
 OUTPUT(objs_BLUE/GPS_Git_BLUE_L1305_V0-4-0.elf elf32-ba)
 
 .comment        0x0000000000000000       0x11
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans0.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans1.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans2.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans3.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans4.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans5.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans6.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans7.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans8.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans9.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans10.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans11.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans12.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans13.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans14.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans15.ltrans.o
- .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\cc9QSO7h.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUhD686.ltrans16.ltrans.o
  .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
  .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
  .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)

@@ -46,7 +46,7 @@ typedef struct{
 // 送信用データ作成する
 typedef struct
 {
-  GpsData *gps;
+  GpsData gps;
   char ttl;
 }SendData;
 
@@ -55,6 +55,7 @@ typedef struct
 int32 gps_read(GpsData* gps);
 int gps_parse(char* nmea, GpsData* gps);
 
-void showGPS(GpsData* gps);
+// void showGPS(GpsData* gps);
+void showGPS(SendData* data);
 
 #endif // ADAFRUIT_GPS_I2C_H_INCLUDED

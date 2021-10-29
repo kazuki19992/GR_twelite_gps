@@ -40,15 +40,20 @@ C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:217
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'gps_parse':
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:237:9: warning: incompatible implicit declaration of built-in function 'strchr' [enabled by default]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:238:5: warning: implicit declaration of function 'strcmp' [-Wimplicit-function-declaration]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c: In function 'showGPS':
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:300:10: warning: unused variable 'ttl' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:299:12: warning: unused variable 'longitude' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:298:12: warning: unused variable 'latitude' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Common/Adafruit_GPS_I2C.c:297:10: warning: unused variable 'date' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vRxEvent':
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:246:16: warning: unused variable 'u16seqPrev' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:245:6: warning: unused variable 'i' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vHwEvent':
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:392:9: warning: unused variable 'j' [-Wunused-variable]
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:391:9: warning: unused variable 'i' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:410:14: warning: passing argument 1 of 'showGPS' from incompatible pointer type [enabled by default]
+In file included from C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:37:0:
+../Common/Adafruit_GPS_I2C.h:59:6: note: expected 'struct SendData *' but argument is of type 'struct GpsData *'
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:390:9: warning: unused variable 'j' [-Wunused-variable]
+C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:389:9: warning: unused variable 'i' [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: At top level:
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:106:14: warning: 'u8KickedSensor' defined but not used [-Wunused-variable]
 C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:107:15: warning: 'u32KickedTimeStamp' defined but not used [-Wunused-variable]
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c: In function 'cbToCoNet_vRxEvent':
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:252:16: warning: 'receive.gps' is used uninitialized in this function [-Wuninitialized]
-C:/Users/Kushida/MWSTAGE/MWSDK/Wks_TweApps/GPS_Git/Main.c:252:8: warning: 'receive.gps' is used uninitialized in this function [-Wuninitialized]

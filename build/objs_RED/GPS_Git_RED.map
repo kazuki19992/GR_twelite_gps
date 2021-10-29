@@ -1,0 +1,1282 @@
+Archive member included because of file (symbol)
+
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_event.o)
+                              objs_RED/Main.o (symbol from plugin) (PRSEV_u8Register)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_main.o)
+                              objs_RED/Main.o (symbol from plugin) (u32TickCount_ms)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_utils.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetVersion)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_mod_Tx.o)
+                              objs_RED/Main.o (symbol from plugin) (ToCoNet_vReg_mod_Tx_Standard)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_mod_TxRxQueue.o)
+                              objs_RED/Main.o (symbol from plugin) (ToCoNet_vReg_mod_TxRxQueueMid)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_mod_Nwk_Common.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_vRxProc_Mod)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(ToCoNet_mod_Channel_Mgr.o)
+                              ToCoNet_mod_Tx.o (symbol from plugin) (ToCoNet_ChMgr_bCh_OnTx)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetVersionInfo)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a(AppQueueApi_ToCoNet.o)
+                              ToCoNet_main.o (symbol from plugin) (_u32_INT_ticktimer)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(AppStart.o)
+                              (AppColdStart)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(getMacAddr.o)
+                              ToCoNet_main.o (symbol from plugin) (ToCoNet_u32GetSerialOnBoot)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(mac.o)
+                              ToCoNet_main.o (symbol from plugin) (Mac_vInit)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(AES_CCM.o)
+                              AppStart.o (symbol from plugin) (bAES_CCM_KeyReg)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(no_ack_handler.o)
+                              AppStart.o (symbol from plugin) (vInstallNoAckHandler)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetExtVersionInfo)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(serial.o)
+                              objs_RED/Main.o (symbol from plugin) (SERIAL_vInitEx)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(uart.o)
+                              serial.o (symbol from plugin) (UART_vInit)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(ByteQueue.o)
+                              ToCoNet_main.o (symbol from plugin) (QUEUE__vInit)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(ccitt8.o)
+                              AppStart.o (symbol from plugin) (u8CCITT8)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(fprintf.o)
+                              objs_RED/Adafruit_GPS_I2C.o (symbol from plugin) (vfPrintf)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(sprintf.o)
+                              objs_RED/Main.o (symbol from plugin) (SPRINTF_vInit128)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(utils.o)
+                              ToCoNet_main.o (symbol from plugin) (vTimerConfig)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(ccm.o)
+                              AES_CCM.o (symbol from plugin) (ccm_init_and_key)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(Version.o)
+                              ToCoNet_utils.o (symbol from plugin) (au8ToCoNetUtilsVersionInfo)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(aescrypt.o)
+                              ccm.o (symbol from plugin) (aes_encrypt)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(aeskey.o)
+                              ccm.o (symbol from plugin) (aes_encrypt_key)
+C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a(aestab.o)
+                              aeskey.o (symbol from plugin) (t_im)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppApi.o)
+                              (pvAppApiDefGetMacHandle)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppApiSleep.o)
+                              (vAppApiDefSaveMacSettings)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_main.o)
+                              AppApi.o (symbol from plugin) (MAC_pvCtor)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_mcps.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMcpsReqRsp)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_mlme.o)
+                              AppApi.o (symbol from plugin) (MAC_vHandleMlmeReqRsp)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pib.o)
+                              AppStart.o (symbol from plugin) (MAC_psPibGetHandle)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pib_mlme.o)
+                              mac_main.o (symbol from plugin) (mac_vPibSetDefaults)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_pmic.o)
+                              mac_main.o (symbol from plugin) (vPMICreset)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_ind.o)
+                              AppApi.o (symbol from plugin) (MAC_vRegisterMlmeDcfmIndCallbacks)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_scan.o)
+                              mac_main.o (symbol from plugin) (mac_eScanInit)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_lp.o)
+                              mac_pmic.o (symbol from plugin) (g_sLP)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(MCPS.o)
+                              mac_mcps.o (symbol from plugin) (vTAM_MCPSdataRequest)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(phy_pib.o)
+                              AppApi.o (symbol from plugin) (phy_ePibGet)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM.o)
+                              MCPS.o (symbol from plugin) (bTAMinPAN)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMCO.o)
+                              TAM.o (symbol from plugin) (vTAMCOsetCoordinator)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMDE.o)
+                              TAM.o (symbol from plugin) (vTAMDEdetermineNullState)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_MEM.o)
+                              TAM.o (symbol from plugin) (vMEMreset)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_MLME.o)
+                              mac_scan.o (symbol from plugin) (vMLMEbeaconNotify)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAH.o)
+                              TAMCO.o (symbol from plugin) (vTAHsetCutOff)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAI.o)
+                              TAM.o (symbol from plugin) (vTAIsetCapTime)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_TAT.o)
+                              TAMDE.o (symbol from plugin) (vTATstartReceiveAt)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMcommon.o)
+                              mac_scan.o (symbol from plugin) (bTACassessBeaconForPayload)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMevent.o)
+                              mac_lp.o (symbol from plugin) (vTAMinsertEvent)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMqueue.o)
+                              TAMcommon.o (symbol from plugin) (vTAQaddToFifo)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMrxEnable.o)
+                              TAMevent.o (symbol from plugin) (vTAMRXEint2Fired)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMsecurity.o)
+                              TAMcommon.o (symbol from plugin) (vTSCgetIncomingInfo)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMsideways.o)
+                              mac_pmic.o (symbol from plugin) (eTAStransmitRequest)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAMtime.o)
+                              TAM.o (symbol from plugin) (vTTIBLETimerExpired)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(TAM_AES.o)
+                              TAMsecurity.o (symbol from plugin) (u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(Endian.o)
+                              TAM_AES.o (symbol from plugin) (vFromU16ToLe)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_acl.o)
+                              TAMsecurity.o (symbol from plugin) (MAC_u8AclFindInfo)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a(mac_misc.o)
+                              mac_mlme.o (symbol from plugin) (vMAC_MISCpollRequest)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a(tsv_main.o)
+                              AppApiSleep.o (symbol from plugin) (s_sTimerList)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_main.o)
+                              AppApi.o (symbol from plugin) (XCV_vCtor)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_access.o)
+                              mac_main.o (symbol from plugin) (XCV_vDevWriteIER)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a(xcv_isr.o)
+                              AppApi.o (symbol from plugin) (vXCV_IntHandlerPhy)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a(MMAC.o)
+                              phy_pib.o (symbol from plugin) (vMMAC_SetChannelAndPower)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a(MMAC_RadioInit_JN5169.o)
+                              xcv_main.o (symbol from plugin) (vMMAC_ConfigureRadio)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a(JPT_RadioTxPowerTests.o)
+                              AppApi.o (symbol from plugin) (vJPT_CustomBmodTable)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a(JPT_RadioSettings_JN5169.o)
+                              MMAC_RadioInit_JN5169.o (symbol from plugin) (bJPT_InitRadio_JN5169)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorCCM.o)
+                              AES_CCM.o (symbol from plugin) (bACI_CCMstar)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              TAM_AES.o (symbol from plugin) (vACI_OptimisedCcmStar)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              AES_CCM_Star.o (symbol from plugin) (vACI_CmdWaitBusy)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Analogue.o)
+                              utils.o (symbol from plugin) (bAHI_APRegulatorEnabled)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_BrownOut.o)
+                              objs_RED/Main.o (symbol from plugin) (vAHI_BrownOutConfigure)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Dio.o)
+                              objs_RED/Main.o (symbol from plugin) (vAHI_DioSetDirection)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Reset.o)
+                              ToCoNet_main.o (symbol from plugin) (vAHI_SwReset)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Spi.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_SpiRegisterCallback)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_System.o)
+                              AppApiSleep.o (symbol from plugin) (u8AHI_PowerStatus)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Timer.o)
+                              utils.o (symbol from plugin) (vAHI_TimerEnable)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_TimerInt.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_Timer0RegisterCallback)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Uart.o)
+                              uart.o (symbol from plugin) (vAHI_UartSetBaudDivisor)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_WakeTimer.o)
+                              ToCoNet_utils.o (symbol from plugin) (vAHI_WakeTimerEnable)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_FlashIndexSector.o)
+                              AppStart.o (symbol from plugin) (bAHI_ReadMACID)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Si.o)
+                              objs_RED/SMBus.o (symbol from plugin) (vAHI_SiMasterConfigure)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_TickTimer.o)
+                              AppQueueApi_ToCoNet.o (symbol from plugin) (vAHI_TickTimerInit)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+                              AppApi.o (symbol from plugin) (vAHI_InterruptSetPriority)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Init.o)
+                              AppStart.o (symbol from plugin) (u32AHI_Init)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_SpiSlave.o)
+                              AHI_Init.o (symbol from plugin) (vAHI_IntHandlerSpiSlave)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroInt_ba.o)
+                              ToCoNet_main.o (symbol from plugin) (vMicroIntEnableOnly)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              (_exception_external_interrupt)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a(AppHousekeeping.o)
+                              mac_scan.o (symbol from plugin) (sAppHousekeeping)
+C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a(AEScoprocessorAPIinterrupts.o)
+                              AHI_Init.o (symbol from plugin) (vACI_IntHandlerAes)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+                              objs_RED/Adafruit_GPS_I2C.o (symbol from plugin) (atoi)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+                              c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o) (_strtol_r)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+                              c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o) (__ctype_ptr__)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+                              c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o) (_impure_ptr)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o) (__udivsi3)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o) (__umodsi3)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o (memcmp)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o (memcpy)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (memset)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (strchr)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (strcmp)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (strcpy)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (strlen)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o (strncmp)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o (strncpy)
+c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                              C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o (__divsi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+gpsBuffer           0x100             objs_RED/Adafruit_GPS_I2C.o (symbol from plugin)
+apvHwIndBufferData  0x2c              AppQueueApi_ToCoNet.o (symbol from plugin)
+prMAC_TofMlmeReqHandler
+                    0x4               mac_mlme.o (symbol from plugin)
+apvMlmeIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+_TWENET_TX_POWER_VALUE
+                    0x1               AppStart.o (symbol from plugin)
+g_tSpiConfiguration
+                    0x4               AHI_Flash.o (symbol from plugin)
+SPRINTF_Stream      0x4               sprintf.o (symbol from plugin)
+prMAC_TofRxHandler  0x4               TAMcommon.o (symbol from plugin)
+_MAC_u8TxFailReason
+                    0x1               mac.o (symbol from plugin)
+apvMcpsIndBufferData
+                    0x14              AppQueueApi_ToCoNet.o (symbol from plugin)
+bAHI_ExtendedTemperatureOperation
+                    0x1               AHI_System.o (symbol from plugin)
+bMAC_DiscardUnsuccessfulAssocResponses
+                    0x1               mac_pmic.o (symbol from plugin)
+u8Msq               0x1               TAM_TAT.o (symbol from plugin)
+g_bLegacyHwBugEmulation
+                    0x1               AES_CCM_Star.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 objs_RED/Adafruit_GPS_I2C.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+ .text          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans14.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .text          0x0000000000000000        0x0 objs_RED/Main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 objs_RED/SMBus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Tx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_TxRxQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Nwk_Common.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ToCoNet_mod_Channel_Mgr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppQueueApi_ToCoNet.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppStart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 getMacAddr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 no_ack_handler.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 serial.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ByteQueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccitt8.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 fprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 sprintf.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 utils.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 ccm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Version.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aescrypt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aeskey.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aestab.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AppApiSleep.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pib_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_pmic.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_ind.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_lp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MCPS.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 phy_pib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMCO.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMDE.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MEM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_MLME.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAH.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_TAT.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMcommon.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMevent.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMqueue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMrxEnable.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsecurity.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMsideways.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAMtime.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 TAM_AES.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_acl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 mac_misc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 tsv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_access.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 xcv_isr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC_RadioInit_JN5169.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JPT_RadioTxPowerTests.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 JPT_RadioSettings_JN5169.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorCCM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Analogue.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_BrownOut.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_FlashIndexSector.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Si.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Init.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_SpiSlave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt_ba.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .data          0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .bss           0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 AppHousekeeping.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPIinterrupts.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .text          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000080000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD objs_RED/Adafruit_GPS_I2C.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans14.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+LOAD C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD objs_RED/Main.o
+LOAD objs_RED/SMBus.o
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_RED.a
+START GROUP
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAppApi_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMAC_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTimerServer_JN516x.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libTOF_JN516x.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libXcv_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMMAC_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libJPT_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libAes_JN516x.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libPDM_EEPROM_JN516x_NO_RTOS.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENET_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENEText_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETutils_RED.a
+LOAD C:/Users/Kushida/MWSTAGE/MWSDK/TWENET/current/lib/libTWENETstgs_RED.a
+END GROUP
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x0000000000000800                _stack_size = 0x800
+                0x0000000000080038                exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x0000000000000d16]                __minimum_heap_size = DEFINED (__minimum_heap_size)?__minimum_heap_size:0xd16
+                [0x0000000000000800]                __stack_size = DEFINED (__stack_size)?__stack_size:0x800
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0xf03000b
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0xb878 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x8b3a4 ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0x135 ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x148 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0x7aa ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x86e24 ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x8a7a2 ABSOLUTE (AppColdStart)
+                0x0000000000000000                _enc_offset = (_enc_start & 0xf)
+                0x0000000000000044                PROVIDE (vException_BusError, restore_state)
+                0x0000000000000044                PROVIDE (vException_UnalignedAccess, restore_state)
+                0x0000000000000044                PROVIDE (vException_IllegalInstruction, restore_state)
+                0x0000000000000044                PROVIDE (vException_SysCall, restore_state)
+                0x0000000000000044                PROVIDE (vException_Trap, restore_state)
+                0x0000000000000044                PROVIDE (vException_StackOverflow, restore_state)
+                0x0000000000080038                . = ABSOLUTE (exception_vsr_table)
+
+.vsr_table      0x0000000000080038       0x18
+                0x0000000000080038        0x4 LONG 0x44 ABSOLUTE (vException_BusError)
+                0x000000000008003c        0x4 LONG 0x44 ABSOLUTE (vException_UnalignedAccess)
+                0x0000000000080040        0x4 LONG 0x44 ABSOLUTE (vException_IllegalInstruction)
+                0x0000000000080044        0x4 LONG 0x44 ABSOLUTE (vException_SysCall)
+                0x0000000000080048        0x4 LONG 0x44 ABSOLUTE (vException_Trap)
+                0x000000000008004c        0x4 LONG 0x44 ABSOLUTE (vException_StackOverflow)
+
+.vsr_handlers   0x0000000000080050       0xaa
+ *(.vsr_handlers)
+ .vsr_handlers  0x0000000000080050       0xaa C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000000080050                _exception_external_interrupt
+                0x00000000000800f8                _default_vsr_dummy
+
+.rodata         0x00000000000800fc      0x885
+ *(.rodata*)
+ .rodata        0x00000000000800fc       0xd4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+                0x00000000000800fc                s_aprScanHandleEvt.10748
+                0x000000000008012c                apvActionCalls
+                0x00000000000801b4                aprLPBMacVectorRamTable
+                0x00000000000801c8                psTamMacContext
+                0x00000000000801cc                psTAMcontext
+ .rodata.str1.1
+                0x00000000000801d0       0xa0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+ .rodata        0x0000000000080270       0x38 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+                0x0000000000080270                asStateFuncTbl.2649
+ .rodata        0x00000000000802a8       0x28 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+                0x00000000000802a8                aeTimerInterruptDeviceIDlut.21315
+ .rodata        0x00000000000802d0        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+ .rodata        0x00000000000802d4        0xa C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+ .rodata.str1.1
+                0x00000000000802de       0xad C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+ .rodata        0x000000000008038b       0x6b C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+ .rodata        0x00000000000803f6       0x17 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+ *fill*         0x000000000008040d        0x3 00
+ .rodata        0x0000000000080410       0x24 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+                0x0000000000080418                psTamXcvContext
+ .rodata        0x0000000000080434       0x9a C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+ .rodata        0x00000000000804ce        0x6 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+                0x00000000000804ce                aeXcvPhyEvtToScanEvt.5424.10751
+ .rodata.str1.1
+                0x0000000000000000       0xad C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+                                          0x3 (size before relaxing)
+ .rodata        0x00000000000804d4      0x131 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+ *fill*         0x0000000000080605        0x3 00
+ .rodata        0x0000000000080608       0x28 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+                0x0000000000080608                CSWTCH.35.21262.21262
+                0x000000000008061c                au32TimerBaseAddress
+ .rodata.str1.1
+                0x0000000000080630       0x35 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+                                         0x46 (size before relaxing)
+ *fill*         0x0000000000080665        0x3 00
+ .rodata        0x0000000000080668        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+                0x0000000000080668                au32UartAddrOffset
+ .rodata.str1.1
+                0x0000000000080670       0x11 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+ *fill*         0x0000000000080681        0x3 00
+ .rodata        0x0000000000080684       0x7c C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+                0x00000000000806b8                u32MacLow_TOCOS
+                0x00000000000806bc                u32MacHigh_TOCOS
+ .rodata        0x0000000000080700      0x281 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+                0x0000000000080700                _ctype_
+ .rodata.str1.1
+                0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+                                          0x2 (size before relaxing)
+
+.text           0x0000000000080984     0xaa20
+ *(.text*)
+ .text          0x0000000000080984      0xba4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+                0x0000000000080984                eWBRTTxDone.10405
+                0x00000000000809a2                vTAMCOframeTXgoingIdle
+                0x00000000000809bb                vTAMCOframeTXcap
+                0x00000000000809df                eWCoRRxDone.10396
+                0x0000000000080a89                eWBcnRxDone.10408
+                0x0000000000081076                vTAMCOframeRXcap
+                0x0000000000081088                vTAMCOframeRXgoingIdle
+                0x000000000008109e                vTAMCOframeRXnobeacon
+                0x00000000000810b0                vTAMDEframeRX
+                0x00000000000810d8                vTAMDEframeRXtrackingDR
+                0x000000000008111b                vTAMDEframePreSyncReq
+                0x0000000000081133                vTAMCOframeTXbeacon
+                0x00000000000811fa                vTAMDEframeRXsyncReq
+                0x0000000000081449                vTAMDEint1FiredTrackingCAPgts
+                0x00000000000814fa                eWONTTxDone.10402
+ .text          0x0000000000081528      0x4ba C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+                0x0000000000081528                vAppApiDefMcpsRequest
+                0x0000000000081553                vHnd_E_STATE_PREPARE_TX.2604
+                0x00000000000819ae                vAppApiDefMlmeRequest
+                0x00000000000819d9                pvAppApiDefGetMacHandle
+ .text.unlikely
+                0x00000000000819e2      0x5e7 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+                0x00000000000819ff                vProcessIncomingHwEvent.2112
+ .text          0x0000000000081fc9      0xb29 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+                0x0000000000081fde                mac_vLPBStartTimer
+                0x0000000000082240                vProcessEvCoreTx.2586
+                0x0000000000082330                vMicroIntEnableOnly.constprop.57
+                0x000000000008235c                vAHI_ProtocolPower.constprop.54
+                0x000000000008236a                vMMAC_ConfigureRadio
+                0x0000000000082515                bAHI_SetClockRate
+                0x0000000000082620                bAES_CCMstar
+                0x00000000000826ec                bAES_CCM_EncodeKey
+                0x0000000000082799                pvHeap_Alloc
+                0x000000000008279c                u32AHI_Init
+                0x000000000008285e                vMicroIntRestoreState
+                0x000000000008286a                _ToCoNet_bRfChChannel
+                0x00000000000828ff                ToCoNet_ChMgr_bCh_Reconfig
+                0x0000000000082967                vHnd_E_STATE_IDLE.2609
+                0x00000000000829c5                u8AHI_WakeTimerFiredStatus
+                0x00000000000829d9                vAHI_WakeTimerStop.part.3.21594
+                0x00000000000829f9                mac_vLPBStopTimer
+                0x0000000000082a03                vAHI_UartSetRTSCTS.part.15.21375
+                0x0000000000082a2a                vAHI_UartReset.part.4.21348
+                0x0000000000082a62                vAHI_UartSetControl.part.2.21332
+                0x0000000000082ab3                vAHI_UartSetBaudDivisor.part.1.21328
+ .text.unlikely
+                0x0000000000082af2       0xb0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+                0x0000000000082af2                vAHI_TimerEnable.part.1.21129.constprop.21
+                0x0000000000082b5d                vAHI_MemoryHold.21026
+ .text          0x0000000000082ba2      0xb1f C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+                0x0000000000082ba2                vAHI_IntHandlerTickTimer
+                0x0000000000082be9                vTACintRXheader
+                0x00000000000833e4                vTAMCOint1Fired
+                0x0000000000083500                vTAMCOint1FiredCAP
+                0x0000000000083572                vTAMCOreqTXnoBeacon
+                0x0000000000083584                vTAMCOstartBeacon
+                0x00000000000835bf                vStartStoreValues.13051
+                0x0000000000083676                bStartCallback.13080
+                0x00000000000836a5                vTrySendFromDirectCAP.12983
+ .text          0x00000000000836c1      0xa15 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+                0x0000000000083821                bAES_CCM_DecodeKey
+                0x00000000000838dd                vHnd_E_STATE_FINISH_TX_FAIL.2594
+                0x0000000000083990                vHnd_E_STATE_FINISH_TX_SUCCESS.2599
+                0x0000000000083a14                bTAM_AES_CCMstarPatch
+                0x0000000000083b58                bTAM_AES_CCMstarPatch2006
+                0x0000000000083c5f                vWriteFrame.15228
+                0x0000000000083e37                bTATsendFrame
+                0x0000000000083e8a                vTrySendFromDirectNoBeacon.12987
+                0x0000000000083eb5                vTAMCOreqTXinCAP
+                0x0000000000083eda                vTrySendUnslotted.13528
+                0x0000000000083ef3                bSendDataRequest.13530
+                0x0000000000084005                bProcessBeaconRX.13533
+ .text.unlikely
+                0x00000000000840d6      0x108 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+                0x00000000000840d6                bStartXtal32k.20933
+ .text          0x00000000000841de      0xc09 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+                0x0000000000084319                bAHI_ReadMACID
+                0x000000000008435f                vMLMEbeaconNotify
+                0x00000000000844bd                vMCPSframeReceived
+                0x0000000000084580                ToCoNet_vInit
+                0x00000000000848c3                vExpireHead.19953
+                0x00000000000848f3                vfPrintf.constprop.60
+                0x0000000000084a8e                vProcessEvCore.1472
+                0x0000000000084b15                vMMAC_SetChannelAndPower
+                0x0000000000084cbe                vPhySetChannel
+                0x0000000000084cdd                QUEUE__u8RemoveItem.part.1.4791
+                0x0000000000084d18                QUEUE__vAddItem.constprop.47
+                0x0000000000084d4a                ToCoNet_ChMgr_vCh_TxFin
+                0x0000000000084d77                vHnd_E_STATE_WAIT_TX.2617
+ .text.unlikely
+                0x0000000000084de7       0x95 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+                0x0000000000084de7                u32AppQApiInitInt_PATCH
+                0x0000000000084df6                showGPS
+ .text          0x0000000000084e7c      0x8e9 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+                0x0000000000084e7c                UART_vHandleUartInterrupt.4716
+                0x0000000000084f03                vHnd_E_STATE_RUNNING.2625
+                0x000000000008514d                SERIAL_vTxReady
+                0x00000000000851ae                vAppQApiPostHwIntT.3269
+                0x0000000000085281                vRxChar.4614
+                0x00000000000852d2                vXCV_IntHandlerPhy
+                0x0000000000085384                vScanHandleTimer.10005
+                0x0000000000085389                vXCV_IntHandlerBbc
+                0x000000000008542c                ToCoNet_vMacStart
+                0x0000000000085445                u8TAM_AES_WriteAuxilliarySecurityHeaderIntoBuffer
+                0x00000000000854b7                u32AHI_ReadIndexSectorBits.constprop.7
+                0x0000000000085518                vTAIsetCapTime
+                0x0000000000085539                vTAIsetRxEnableTime
+                0x000000000008555a                vDoGoActive.16692
+                0x000000000008557c                vTAMRXEint2Fired
+                0x00000000000855b2                vTAMRXEsetPhy
+                0x0000000000085675                vTAHsetPhyState
+                0x00000000000856a5                vTAMCOint2Fired
+                0x00000000000856c5                vSetPHYfromMacValue.13526
+                0x00000000000856f7                vTAMDEint1FiredWaitDR
+                0x0000000000085704                vTACsetPHYfromMacValue
+                0x0000000000085725                vTAMRXEsetReceiveForPibChange
+ .text.unlikely
+                0x0000000000085765       0x79 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+                0x0000000000085765                Delay.20927.constprop.17
+ *fill*         0x00000000000857de        0x2 00
+ .text          0x00000000000857e0      0x9a4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+                0x00000000000857e0                vTAMDEint2FiredTrackingDR
+                0x0000000000085806                vTAMDEint2FiredPollActive
+                0x000000000008583b                vTAMDEreqTXnullTrackingCAP
+                0x0000000000085855                eTAMselect
+                0x0000000000085994                MAC_pvCtor
+                0x0000000000085dbd                u32AppApiDefInit
+                0x0000000000085e88                _ToCoNet_vMacInit
+                0x0000000000085eee                _ToCoNet_vRfConfig
+                0x0000000000086089                vTAMDEint1FiredTrackingBeacon
+                0x0000000000086129                vTAMDEframeTXtrackingDR
+ .text          0x0000000000086184      0xba7 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+                0x0000000000086184                vAHI_IntHandlerTimer4
+                0x00000000000861a5                vAHI_IntHandlerTimer3
+                0x00000000000861c6                vAHI_IntHandlerTimer1
+                0x00000000000861e6                vAHI_IntHandlerTimer0
+                0x0000000000086207                vTimerCallback.20909
+                0x0000000000086212                vAHI_IntHandlerSpiMaster
+                0x0000000000086238                vAHI_IntHandlerAnalogPeriph
+                0x0000000000086258                vTTIBLETimerExpired
+                0x0000000000086263                vAHI_WatchdogStop
+                0x000000000008627a                cbAppWarmStart.part.3.1481
+                0x00000000000862a1                vAHI_DioSetOutput
+                0x00000000000862b5                vAHI_DioSetDirection
+                0x00000000000862c9                vACI_CmdWaitBusy
+                0x000000000008632d                vACI_OptimisedCcmStar
+                0x0000000000086545                vTAIdisableInterrupt
+                0x000000000008655e                psRemove.part.0.19948
+                0x000000000008658d                vMAC_MISCpollConfirm
+                0x00000000000865be                MAC_u8AclFindInfo
+                0x00000000000866e8                vTASretrieveSecurity
+                0x000000000008670a                MAC_bLookUpKeyDescriptor.17500
+                0x0000000000086784                u8TSCframeIncrease
+                0x00000000000867bd                vTSCpostTransmitUpdate
+                0x00000000000867ed                vCopyToDataFromMacAddr.17410
+                0x0000000000086820                bTSCgetOutgoingInfo
+                0x0000000000086929                vDoGoOff.16690
+                0x0000000000086943                psTAQsearchFifo
+                0x000000000008698c                bTAQremoveFromFifo
+                0x00000000000869c9                vTTITransactionTimerExpired
+                0x00000000000869f2                vTAMinsertEvent
+                0x0000000000086a58                vTTITimer2Expired
+                0x0000000000086a5c                vTTITimer1Expired
+                0x0000000000086a60                vTAM_TxRetryTimeout
+                0x0000000000086a64                vTACsetTxFrameDefaults
+                0x0000000000086a8a                u8TACgetHeaderSize
+                0x0000000000086ac7                bUpdateTime.15728
+                0x0000000000086b02                vTACbuildBeacon
+                0x0000000000086d0a                u32TACpayloadToU32M
+ .text.unlikely
+                0x0000000000086d2b       0x24 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+                0x0000000000086d2b                vAHI_CpuDoze
+                0x0000000000086d3e                vStartXtal32kExternalRc.20923
+ *fill*         0x0000000000086d4f        0x1 00
+ .text          0x0000000000086d50      0xa5c C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+                0x0000000000086d50                vPostDcfm.10392
+                0x0000000000086e24                AppWarmStart
+                0x0000000000086ecc                vSetNextChannel.10440
+                0x0000000000086f25                MAC_vHandleMlmeReqRsp
+                0x00000000000876d5                vTAMDEint1FiredTracking
+                0x0000000000087745                vTAMDEint1FiredSyncReq
+ .text          0x00000000000877ac      0x9ae C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+                0x00000000000877ac                mac_vLPBAdjustBeaconOffset
+                0x0000000000087809                mac_u32LPBGetBeaconTimeout
+                0x0000000000087812                eWEnDTmrExpiry.10389
+                0x000000000008781d                eWEnDEdDone.10386
+                0x0000000000087878                eGenlDontCare.10383
+                0x000000000008787d                eGenlIllegal.10008
+                0x0000000000087884                u32GetTimer0
+                0x000000000008788b                vSetTimer0
+                0x000000000008789a                SPRINTF_bPutChar.4882
+                0x00000000000878d6                vHandlerPatch.4589
+                0x000000000008790d                u8HwEventHandler.1943
+                0x000000000008792c                vTACu32ToPayloadM
+                0x0000000000087944                bTACframeInProgress
+                0x000000000008796e                bTACassessBeaconForPayload
+                0x00000000000879bf                bIsBbcSafeForTx
+                0x00000000000879f4                vTATwriteAclMaterialToHardware
+                0x0000000000087a19                vTATsetBLE
+                0x0000000000087a50                vTATgetFramePayload
+                0x0000000000087a6d                eTATreadTXstatus
+                0x0000000000087ab3                vTAHsetPhyStateDirect.part.0.14869
+                0x0000000000087acf                vMEMreturn
+                0x0000000000087b40                vTACinformOriginator
+                0x0000000000087b62                pvMEMget
+                0x0000000000087b8e                vTAMDEdetermineNullState
+                0x0000000000087ba8                vTAMCOupdatePendingList
+                0x0000000000087c7a                vTAMCOsetCoordinator
+                0x0000000000087ca0                eScanHandleEvt.part.0.10419
+                0x0000000000087cc9                mac_eDcfmIndPost
+                0x0000000000087cea                mac_psDcfmIndGetBuf
+                0x0000000000087d0b                vMLMErxEnableConfirm
+                0x0000000000087d3d                vMLMEcommStatus
+                0x0000000000087da0                vMLMEcommStatusFromFrame
+                0x0000000000087de4                vMLMEsyncLoss
+                0x0000000000087e17                vPMICpostFailedAssocDcfm
+                0x0000000000087e4f                vPMICassocReqTO_2.8836
+                0x0000000000087e66                MAC_vPibSetPanId
+                0x0000000000087e81                vHandleTofRequest.6942
+                0x0000000000087e84                vAppApiDefSetPrbsSeed
+                0x0000000000087ea8                u8CCITT8
+                0x0000000000087ece                bAES_CCM_KeyReg
+                0x0000000000087f0d                bFifoPush.3290
+                0x0000000000087f46                vAppQApiPostMlme.3276
+                0x0000000000087f65                vAppQApiPostMcps.3283
+                0x0000000000087f80                pvFifoPull.3287
+                0x0000000000087fa7                psAppQApiGetMlmeBuffer.3273
+                0x0000000000087faf                psAppQApiGetMcpsBuffer.3280
+                0x0000000000087fb7                ToCoNet_vReg_mod_TxRxQueueMid
+                0x0000000000088038                PRSEV_vSetState
+                0x0000000000088048                PRSEV_u8Register
+                0x0000000000088086                PRSEV_vProcessEv_core.1733
+                0x0000000000088128                PRSEV_vProcessEvPost
+ .text.unlikely
+                0x000000000008815a      0x174 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+                0x000000000008815a                _PRSEV_vProcessEvSingleH
+                0x0000000000088169                parseLongitude
+                0x00000000000881bd                parseLatitude
+                0x000000000008820f                parseDate
+                0x0000000000088260                tokenOnList
+                0x00000000000882a4                parseHex
+ .text          0x00000000000882ce      0x9ed C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+                0x00000000000882ce                TSV_eStart
+                0x00000000000883b2                vTAMDEstartSync
+                0x0000000000088430                vDeterminePowerState.13650
+                0x00000000000884b3                vTAM_TxRetryTimer
+                0x00000000000884bf                eTAStransmitRequest
+                0x000000000008885a                vPMICassocReqTO_1.8829
+                0x00000000000888e2                vTAM_MCPSdataRequest
+                0x0000000000088925                bTACcheckPANconflict
+                0x00000000000889de                TSV_eOpen
+                0x00000000000889e6                vAppApiDefRestoreMacSettings
+                0x0000000000088acd                vAppApiDefSaveMacSettings
+                0x0000000000088b2a                mac_vLPBSleep
+                0x0000000000088bef                pvAppApiDefGetMacAddrLocation
+                0x0000000000088bf8                eAppApiDefPlmeGet
+                0x0000000000088c4a                eAppApiDefPlmeSet
+ .text.unlikely
+                0x0000000000088cbb      0x562 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+                0x0000000000088cbb                ToCoNet_vStart
+ .text          0x000000000008921d      0x835 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+                0x000000000008921d                vProcessEvCoreMac
+                0x0000000000089284                ToCoNet_vMain
+ *fill*         0x0000000000089a52        0x2 00
+ .text          0x0000000000089a54      0x780 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans14.ltrans.o
+                0x0000000000089a54                eGenTmrExpiry.10701
+                0x0000000000089a96                eWEDTEdDone.10704
+                0x0000000000089aba                TSV_eStop
+                0x0000000000089b78                bPMICdisassocReqSent.8825
+                0x0000000000089c32                MAC_vHandleMcpsReqRsp
+                0x0000000000089cbf                bMCPSframeTXcomplete.11436
+                0x0000000000089d14                bSendSyncLoss.15663
+                0x0000000000089d2c                bPollReqSent.19259
+                0x0000000000089d44                bTASsendCommStatusInd
+                0x0000000000089d59                bAssocRespSent.8821
+                0x0000000000089d6c                eTACprocessFrameTXcomplete
+                0x0000000000089ee9                vTAMCOframeTXnobeacon
+                0x0000000000089efe                vTAMCOframeStarting
+                0x0000000000089f17                vTAMDEframeTXDEnull
+                0x0000000000089f3a                vTAMDEframeTXtrackingCAPgts
+                0x0000000000089f66                bPMICassocReqSent.8817
+                0x0000000000089fe8                bPMICassocReqPollSent.8832
+                0x000000000008a03c                eWChCChanChgd.10416
+ .text          0x000000000008a1d4      0x553 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+                0x000000000008a2d0                eGenRxHdrDone.10399
+                0x000000000008a2e0                vInitHardware.isra.2.1551
+                0x000000000008a6a0                cbAppColdStart.part.4.1556
+ .text.unlikely
+                0x000000000008a727       0x7b C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+                0x000000000008a727                SERIAL_vFlush
+ .text          0x000000000008a7a2      0x551 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+                0x000000000008a7a2                AppColdStart
+ .text          0x000000000008acf3       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x000000000008acf3                memcmp
+ .text          0x000000000008ad18       0x19 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x000000000008ad31       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x000000000008ad31                memset
+ .text          0x000000000008ad43       0x1c c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+                0x000000000008ad43                strchr
+ .text          0x000000000008ad5f       0x25 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+                0x000000000008ad5f                strcmp
+ .text          0x000000000008ad84       0x15 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                0x000000000008ad84                strcpy
+ .text          0x000000000008ad99       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                0x000000000008ad99                strlen
+ .text          0x000000000008adab       0x38 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                0x000000000008adab                strncmp
+ .text          0x000000000008ade3       0x2b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                0x000000000008ade3                strncpy
+ *fill*         0x000000000008ae0e        0x2 00
+ .text          0x000000000008ae10       0x30 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+                0x000000000008ae10                __divsi3
+ .text          0x000000000008ae40       0x27 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libHardwareApi_JN5169.a(AHI_Interrupt.o)
+                0x000000000008ae40                vAHI_InterruptSetPriority
+                0x000000000008ae5e                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x000000000008ae67       0x17 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x000000000008ae67                vMicroSyscall
+ .text          0x000000000008ae7e        0xe c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+                0x000000000008ae7e                atoi
+                0x000000000008ae85                _atoi_r
+ .text          0x000000000008ae8c      0x164 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+                0x000000000008ae8c                _strtol_r
+                0x000000000008afde                strtol
+ .text          0x000000000008aff0      0x204 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x000000000008aff0                __udivsi3
+ .text          0x000000000008b1f4      0x1b0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000008b1f4                __umodsi3
+                0x000000000008b3a4                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x000000000008b3a4        0x0
+ .rela.text     0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .rela.rodata   0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .rela.text.unlikely
+                0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .rela.data     0x0000000000000000        0x0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c      0x4d4 load address 0x000000000008b3a4
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c       0x90 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+                0x000000000400004c                u8TxWkrNow.2727
+ .data          0x00000000040000dc        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+                0x00000000040000dc                u32HeapStart
+ .data          0x00000000040000e4        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+ .data.initinboot
+                0x00000000040000e5        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+                0x00000000040000e5                gMAC_u8MaxBuffers
+ .data          0x00000000040000e6        0x2 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+ .data          0x00000000040000e8        0x4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+                0x00000000040000e8                __ctype_ptr__
+ *fill*         0x00000000040000ec        0x4 00
+ .data          0x00000000040000f0      0x430 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+                0x00000000040000f0                _impure_ptr
+ *(.data.*)
+                0x0000000004000520                . = ALIGN (0x4)
+                0x0000000004000520                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x0000000004000520     0x1ea8 load address 0x000000000008b878
+                0x0000000004000520                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x0000000004000520       0x40 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+                0x0000000004000520                g_sLP
+                0x000000000400055c                g_pvMac
+ .bss.initinboot
+                0x0000000004000560      0x1c0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+                0x0000000004000560                g_sMac
+ .bss           0x0000000004000720      0x134 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+                0x0000000004000720                sCh_Context.3146
+                0x0000000004000724                asTx.2683
+ .bss           0x0000000004000854        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+ .bss.dontinitinboot
+                0x000000000400085c        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+ .bss           0x0000000004000860        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+ .bss.dontinitinboot
+                0x0000000004000868        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+ *fill*         0x0000000004000869        0x3 00
+ .bss           0x000000000400086c      0x734 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+                0x000000000400086c                prApAppCallback.20738
+                0x0000000004000870                prSpiAppCallback.20897
+                0x0000000004000874                prSiAppCallback.22114
+                0x0000000004000878                prAppMcpsCallback.3512
+                0x000000000400087c                prAppMlmeCallback.3513
+ .bss.initinboot
+                0x0000000004000fa0        0x4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+                0x0000000004000fa0                prSysCtrlAppCallback.21105
+ .bss           0x0000000004000fa4       0x24 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+                0x0000000004000fa4                bTxEventQueued.16558
+                0x0000000004000fa5                u8TxEventStatus.16559
+                0x0000000004000fa8                sAppHousekeeping
+                0x0000000004000fc0                prAppHwCallback.3514
+                0x0000000004000fc4                TxWorker_u8Num.2684
+                0x0000000004000fc5                gbTimeOutFlag.21101
+ .bss           0x0000000004000fc8       0x24 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+                0x0000000004000fc8                i8TxPower.12236
+                0x0000000004000fcc                g_sXcv
+                0x0000000004000fd0                prMcpsRequest.5830
+                0x0000000004000fd4                prMlmeRequest.5829
+                0x0000000004000fd8                prOriginalHandler.4593
+ .bss.initinboot
+                0x0000000004000fec        0x8 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+                0x0000000004000fec                g_u32MacAddrLocation
+                0x0000000004000ff0                prvUserTxStartedCallback
+ .bss           0x0000000004000ff4        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+                0x0000000004000ff4                u8TAM_TxStatusOverride
+ *fill*         0x0000000004000ff5        0x3 00
+ .bss           0x0000000004000ff8       0x78 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+                0x0000000004000ff8                bWakeupByButton.1636
+                0x0000000004000ffc                sToCoNet_AppContext
+                0x0000000004001018                sToCoNet_Context
+                0x0000000004001060                sAssocSecurity.9446
+                0x000000000400106c                g_bJenieBackwardsCompatibilityMode
+ .bss           0x0000000004001070      0xb04 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+ .bss           0x0000000004001b74       0x1c C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+ .bss.initinboot
+                0x0000000004001b90        0x1 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+ *fill*         0x0000000004001b91        0x3 00
+ .bss           0x0000000004001b94      0x180 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+                0x0000000004001b94                u8AppId_Pkt_head.4462
+                0x0000000004001b98                u32AppId.4459
+                0x0000000004001b9c                u32MyAddr.4461
+                0x0000000004001ba0                bRxQueue_Init.4460
+                0x0000000004001ba4                psRxQueueList.4458
+                0x0000000004001bb8                prTickTimeAppCallback
+                0x0000000004001bbc                apfTimerAppCallback.21314
+                0x0000000004001bd0                au16TimerSettings.21263
+                0x0000000004001bdc                asEventHandler.1800
+                0x0000000004001c7c                sEvVars
+                0x0000000004001c98                u32TickCount_ms
+                0x0000000004001c9c                au8Txdatabuff_idx_sTxQueue
+                0x0000000004001ca0                u8TxBuffSiz_sTxQueue
+                0x0000000004001ca4                sTxdatabuff_sTxQueue
+                0x0000000004001ca8                sTxQueue
+                0x0000000004001cc4                au8Rxdatabuff_idx_sRxQueue
+                0x0000000004001cc8                u8RxBuffSiz_sRxQueue
+                0x0000000004001ccc                sRxdatabuff_sRxQueue
+                0x0000000004001cd0                sRxQueue
+                0x0000000004001cec                au8Rxdatabuff_idx_sRxQueueCmd
+                0x0000000004001cf0                u8RxBuffSiz_sRxQueueCmd
+                0x0000000004001cf4                sRxdatabuff_sRxQueueCmd
+                0x0000000004001cf8                sRxQueueCmd.2251
+ .bss           0x0000000004001d14       0xe4 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+                0x0000000004001d14                sMcpsIndQueue.3508
+                0x0000000004001d24                sMcpsIndBufferQueue.3506
+                0x0000000004001d34                sMlmeIndQueue.3509
+                0x0000000004001d44                sMlmeIndBufferQueue.3507
+                0x0000000004001d54                sHwIndQueue.3510
+                0x0000000004001d64                sHwIndBufferQueue.3511
+                0x0000000004001d74                _u32_INT_adc_comp
+                0x0000000004001d78                _u32_INT_ticktimer
+                0x0000000004001d7c                sOpt.4765
+                0x0000000004001d8c                asSerialPorts
+                0x0000000004001dc4                sAppData.1613
+                0x0000000004001dd4                sSerStream
+                0x0000000004001ddc                sSerPort
+ .bss           0x0000000004001df8       0x14 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans14.ltrans.o
+                0x0000000004001df8                s_sTimerList
+                0x0000000004001e08                u8AssocResponsesInProgress.9445
+ .bss           0x0000000004001e0c      0x4e0 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+                0x0000000004001e0c                _SERIAL_bmTxIntEnabled
+                0x0000000004001e10                prUart1AppCallback.21569
+                0x0000000004001e14                prUart0AppCallback.21568
+                0x0000000004001e18                asUARTS.4758
+                0x0000000004001e38                au8sprintf.4928
+                0x0000000004001e3c                SPRINTF_MAX_BUFF.4930
+ .bss           0x00000000040022ec       0x9c C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+                0x00000000040022ec                sContext.4583
+                0x0000000004002318                TWENET_u8RFdevice_minor.3883
+                0x0000000004002319                TWENET_u8RFdevice_major.3882
+                0x000000000400231a                _TWENET_TX_POWER_MAX
+                0x000000000400231c                sToCoNet_Modules
+ .bss.dontinitinboot
+                0x0000000004002388       0x40 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x0000000004002388                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x00000000040023c8                . = ALIGN (0x4)
+                0x00000000040023c8                _bss_end = ABSOLUTE (.)
+                0x00000000040023c8                end = .
+
+.heap           0x00000000040023c8      0xd16 load address 0x000000000008d720
+                0x00000000040023c8                _heap_start = ABSOLUTE (.)
+                0x00000000040030de                . = (. + __minimum_heap_size)
+ *fill*         0x00000000040023c8      0xd16 00
+
+.stack          0x0000000004007800      0x800 load address 0x0000000000092b58
+                0x0000000004007800                _heap_end = ABSOLUTE (.)
+                0x0000000004007800                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + __stack_size)
+ *fill*         0x0000000004007800      0x800 00
+                0x0000000004008000                _stack = .
+
+.test           0x000000000008b878        0x1
+                0x000000000008b878        0x1 BYTE 0xff
+                0x000000000008b3a4                _flash_data_start = LOADADDR (.data)
+                0x00000000000004d4                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x0000000000001ea8                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x000000000000b878                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x00000000040000dc                PROVIDE (_heap_location, u32HeapStart)
+                0x00000000040000dc                PROVIDE (heap_location, u32HeapStart)
+                0x00000000000889de                TSV_eOpenVector = TSV_eOpen
+                0x00000000000882ce                TSV_eStartVector = TSV_eStart
+                0x0000000000089aba                TSV_eStopVector = TSV_eStop
+                0x00000000000819d9                pvAppApiGetMacHandle = pvAppApiDefGetMacHandle
+                0x0000000000085dbd                u32AppApiInit = u32AppApiDefInit
+                0x00000000000819ae                vAppApiMlmeRequest = vAppApiDefMlmeRequest
+                0x0000000000081528                vAppApiMcpsRequest = vAppApiDefMcpsRequest
+                0x0000000000088c4a                eAppApiPlmeSet = eAppApiDefPlmeSet
+                0x0000000000088bf8                eAppApiPlmeGet = eAppApiDefPlmeGet
+                0x0000000000088bef                pvAppApiGetMacAddrLocation = pvAppApiDefGetMacAddrLocation
+                0x0000000000088acd                vAppApiSaveMacSettings = vAppApiDefSaveMacSettings
+                0x00000000000889e6                vAppApiRestoreMacSettings = vAppApiDefRestoreMacSettings
+OUTPUT(objs_RED/GPS_Git_RED_L1305_V0-4-0.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\Kushida\AppData\Local\Temp\ccUBjC5f.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .comment       0x0000000000000000       0x11 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000000       0x12 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+
+.debug_info     0x0000000000000000     0x295e
+ .debug_info    0x0000000000000000       0xf3 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3      0x106 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000001f9       0xd7 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000002d0       0xe7 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_info    0x00000000000003b7       0xbb c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_info    0x0000000000000472       0xce c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_info    0x0000000000000540       0xc8 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000000608       0xd3 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_info    0x00000000000006db       0xf9 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_info    0x00000000000007d4       0xb4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_info    0x0000000000000888       0xaa C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_info    0x0000000000000932      0xa2b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_info    0x000000000000135d      0xa91 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .debug_info    0x0000000000001dee       0x98 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .debug_info    0x0000000000001e86      0x970 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .debug_info    0x00000000000027f6       0xb4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x00000000000028aa       0xb4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+
+.debug_abbrev   0x0000000000000000      0xa4d
+ .debug_abbrev  0x0000000000000000       0x8e c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0xa4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000132       0x8e c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000001c0       0x83 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_abbrev  0x0000000000000243       0x63 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x00000000000002a6       0x72 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x0000000000000318       0x7f c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000397       0x70 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_abbrev  0x0000000000000407       0x8e c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x0000000000000495       0x14 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_abbrev  0x00000000000004a9       0x14 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_abbrev  0x00000000000004bd      0x1b3 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_abbrev  0x0000000000000670      0x1f6 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .debug_abbrev  0x0000000000000866       0x5d c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x00000000000008c3      0x162 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000a25       0x14 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x0000000000000a39       0x14 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+
+.debug_loc      0x0000000000000000      0x6b6
+ .debug_loc     0x0000000000000000       0x73 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x39 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000000ac       0x3f c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000000000eb       0x55 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_loc     0x0000000000000140       0x3c c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_loc     0x000000000000017c       0x49 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_loc     0x00000000000001c5       0x3f c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000204       0x5a c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_loc     0x000000000000025e       0x93 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_loc     0x00000000000002f1       0x63 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_loc     0x0000000000000354      0x362 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+
+.debug_aranges  0x0000000000000000      0x210
+ .debug_aranges
+                0x0000000000000000       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x0000000000000120       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_aranges
+                0x0000000000000140       0x20 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .debug_aranges
+                0x00000000000001a0       0x18 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x00000000000001b8       0x18 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000001d0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x00000000000001f0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+
+.debug_line     0x0000000000000000     0x1b8d
+ .debug_line    0x0000000000000000      0x154 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000000154      0x148 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x000000000000029c      0x13e c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000003da       0xf6 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_line    0x00000000000004d0       0xf6 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_line    0x00000000000005c6       0xda c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_line    0x00000000000006a0      0x12e c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_line    0x00000000000007ce      0x160 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_line    0x000000000000092e      0x160 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_line    0x0000000000000a8e       0xbb c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__divsi3.o)
+ .debug_line    0x0000000000000b49      0x197 C:/Users/Kushida/MWSTAGE/MWSDK/ChipLib/SW4063V1416/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .debug_line    0x0000000000000ce0      0x18c c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_line    0x0000000000000e6c      0x315 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+ .debug_line    0x0000000000001181       0xb0 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+ .debug_line    0x0000000000001231      0x11a c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000134b      0x47b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x00000000000017c6      0x3c7 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+
+.debug_str      0x0000000000000000      0x9d7
+ .debug_str     0x0000000000000000       0xb4 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x00000000000000b4       0x5d c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x166 (size before relaxing)
+ .debug_str     0x0000000000000111       0x49 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x000000000000015a       0x49 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+                                        0x14b (size before relaxing)
+ .debug_str     0x00000000000001a3       0x49 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+                                        0x14b (size before relaxing)
+ .debug_str     0x00000000000001ec       0x49 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+                                        0x155 (size before relaxing)
+ .debug_str     0x0000000000000235       0x4f c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+                                        0x158 (size before relaxing)
+ .debug_str     0x0000000000000284       0x4b c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+                                        0x154 (size before relaxing)
+ .debug_str     0x00000000000002cf       0x57 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+                                        0x170 (size before relaxing)
+ .debug_str     0x0000000000000326      0x4ca c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+                                        0x516 (size before relaxing)
+ .debug_str     0x00000000000007f0       0x6f c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)
+                                        0x549 (size before relaxing)
+ .debug_str     0x000000000000085f       0xb5 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-ctype_.o)
+                                         0xdd (size before relaxing)
+ .debug_str     0x0000000000000914       0xc3 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-impure.o)
+                                        0x523 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x194
+ .debug_frame   0x0000000000000000       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000040       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000060       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strchr.o)
+ .debug_frame   0x0000000000000080       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000000000a0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000000c0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000000e0       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x0000000000000100       0x20 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x0000000000000120       0x30 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000000150       0x44 c:/users/kushida/mwstage/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-strtol.o)

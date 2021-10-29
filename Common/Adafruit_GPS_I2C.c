@@ -279,16 +279,26 @@ bool gps_parse(char* nmea, GpsData* gps){
     return false;
 }
 
-void showGPS(GpsData* gps){
-    //vfPrintf(&sSerStream, "Date: %d[h]%d[m]%d[s]\n", gps->date.hh, gps->date.mm, gps->date.ss);
-    //vfPrintf(&sSerStream, "Lat: %d[h]%d.%d [%c]\n", gps->latitude.dd, gps->latitude.mm,gps->latitude.mmmm, gps->NorS);
-    //vfPrintf(&sSerStream, "Lon: %d[h]%d.%d [%c]\n", gps->longitude.dd, gps->longitude.mm, gps->longitude.mmmm, gps->EorW);
-    //vfPrintf(&sSerStream, "Quality: %c\n", gps->quality);
-    vfPrintf(&sSerStream, "$POS,%s,%d:%d:%d,%d:%d:%d,%c,%d:%d:%d,%c,%c%c%c", 
-        gps->name,
-        gps->date.hh, gps->date.mm, gps->date.ss,
-        gps->latitude.dd, gps->latitude.mm,gps->latitude.mmmm, gps->NorS,
-        gps->longitude.dd, gps->longitude.mm, gps->longitude.mmmm, gps->EorW,
-        gps->quality, 0x0D, 0x0A
+// void showGPS(GpsData* gps){
+//     //vfPrintf(&sSerStream, "Date: %d[h]%d[m]%d[s]\n", gps->date.hh, gps->date.mm, gps->date.ss);
+//     //vfPrintf(&sSerStream, "Lat: %d[h]%d.%d [%c]\n", gps->latitude.dd, gps->latitude.mm,gps->latitude.mmmm, gps->NorS);
+//     //vfPrintf(&sSerStream, "Lon: %d[h]%d.%d [%c]\n", gps->longitude.dd, gps->longitude.mm, gps->longitude.mmmm, gps->EorW);
+//     //vfPrintf(&sSerStream, "Quality: %c\n", gps->quality);
+//     vfPrintf(&sSerStream, "$POS,%s,%d:%d:%d,%d:%d:%d,%c,%d:%d:%d,%c,%c%c%c,%d", 
+//         gps->name,
+//         gps->date.hh, gps->date.mm, gps->date.ss,
+//         gps->latitude.dd, gps->latitude.mm,gps->latitude.mmmm, gps->NorS,
+//         gps->longitude.dd, gps->longitude.mm, gps->longitude.mmmm, gps->EorW,
+//         gps->quality, 0x0D, 0x0A
+//     );
+// }
+void showGPS(SendData* data){
+    vfPrintf(&sSerStream, "$POS,%s,%d:%d:%d,%d:%d:%d,%c,%d:%d:%d,%c,%c,%d%c%c", 
+        data->gps.name,
+        data->gps.date.hh, data->gps.date.mm, data->gps.date.ss,
+        data->gps.latitude.dd, data->gps.latitude.mm, data->gps.latitude.mmmm, data->gps.NorS,
+        data->gps.longitude.dd, data->gps.longitude.mm, data->gps.longitude.mmmm, data->gps.EorW,
+        data->gps.quality,
+        data->ttl, 0x0D, 0x0A
     );
 }

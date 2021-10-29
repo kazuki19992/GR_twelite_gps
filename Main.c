@@ -250,14 +250,11 @@ void cbToCoNet_vRxEvent(tsRxDataApp *pRx) {
 
 
 	// 受け取りがうまく行ってなかった
-	memcpy(receive.gps, pRx->auData, sizeof(receive));
-	// memcpy(&receive, pRx->auData, sizeof(receive));
+	// memcpy(receive.gps, pRx->auData, sizeof(receive));
+	memcpy(&receive, pRx->auData, sizeof(SendData));
+//vfPrintf(&sSerStream, "%d, %d\n", pRx->u8Len, sizeof(SendData));
+	 showGPS(&receive);
 
-	// この書き方が問題っぽい
-	// gpsのポインタを渡してあげる
-	GpsData *gps = receive.gps;
-	showGPS(gps);
-	// showGPS(&receive);
 
 
 	// // print coming payload
@@ -353,7 +350,7 @@ int16 BroadCastGpsData(GpsData* gps) {
 	SendData send;
 
 	// 送信用データのコピー
-	send.gps = gps;
+	send.gps = *gps;
 	send.ttl = 3;
 
 	memcpy(tsTx.auData, &send, sizeof(SendData));
